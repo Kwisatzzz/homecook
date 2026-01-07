@@ -1,5 +1,8 @@
 """AniaGotuje-specific parsing utilities."""
 
+import argparse
+import json
+import sys
 from html.parser import HTMLParser
 from typing import Optional
 
@@ -47,5 +50,42 @@ def fetch_ingredients(scraper: Scraper, url: str) -> str:
         raise ScraperError(f"Failed to fetch ingredients from {url}: {exc}") from exc
     return parse_ingredients(result.content)
 
+def build_parser() -> argparse.ArgumentParser:
+    parser = argparse.ArgumentParser(description="Extract AniaGotuje recipe ingredients.")
+    parser.add_argument("url", help="Recipe page URL")
+    parser.add_argument(
+        "--pretty",
+        action="store_true",
+        help="Pretty-print JSON output",
+    )
+    return parser
 
-__all__ = ["ScrapeResult", "Scraper", "ScraperError", "fetch_ingredients", "parse_ingredients"]
+
+def main() -> int:
+    parser = build_parser()
+    args = parser.parse_args()
+    scraper = Scraper()
+    try:
+        ingredients = fetch_ingredients(scraper, args.url)
+    except ScraperError as exc:
+        print(f"Error: {exc}", file=sys.stderr)
+        return 1
+    payload = {"url": args.url, "ingredients": ingredients}
+    indent = 2 if args.pretty else None
+    print(json.dumps(payload, ensure_ascii=False, indent=indent))
+    return 0
+
+
+__all__ = [
+    "ScrapeResult",
+    "Scraper",
+    "ScraperError",
+    "build_parser",
+    "fetch_ingredients",
+    "main",
+    "parse_ingredients",
+]
+
+
+if __name__ == "__main__":
+    raise SystemExit(main())
