@@ -5,7 +5,6 @@ from urllib.parse import urljoin
 
 import requests
 from langchain.llms.base import LLM
-import logging
 
 logger = logging.getLogger(__name__)
 
