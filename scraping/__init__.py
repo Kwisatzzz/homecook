@@ -1,1 +1,1 @@
-"""Scraping utilities package."""
+"""Website-specific scraping helpers."""

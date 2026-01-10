@@ -6,7 +6,7 @@ import sys
 from html.parser import HTMLParser
 from typing import Optional
 
-from ..scraper import ScrapeResult, Scraper, ScraperError
+from ..scraper import Scraper, ScraperError, ScrapeResult
 
 
 class _IngredientHTMLParser(HTMLParser):
@@ -50,8 +50,11 @@ def fetch_ingredients(scraper: Scraper, url: str) -> str:
         raise ScraperError(f"Failed to fetch ingredients from {url}: {exc}") from exc
     return parse_ingredients(result.content)
 
+
 def build_parser() -> argparse.ArgumentParser:
-    parser = argparse.ArgumentParser(description="Extract AniaGotuje recipe ingredients.")
+    parser = argparse.ArgumentParser(
+        description="Extract AniaGotuje recipe ingredients."
+    )
     parser.add_argument("url", help="Recipe page URL")
     parser.add_argument(
         "--pretty",
