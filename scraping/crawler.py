@@ -7,7 +7,7 @@ import time
 from collections import deque
 from dataclasses import dataclass
 from typing import Iterable, Optional, Set, Tuple
-from urllib.parse import parse_qsl, urlencode, urldefrag, urljoin, urlparse, urlunparse
+from urllib.parse import parse_qsl, urldefrag, urlencode, urljoin, urlparse, urlunparse
 
 import requests
 from bs4 import BeautifulSoup

@@ -1,12 +1,7 @@
-"""AniaGotuje-specific parsing utilities."""
-
-import argparse
-import json
-import sys
 from html.parser import HTMLParser
 from typing import Optional
 
-from ..scraper import Scraper, ScraperError, ScrapeResult
+from scraping.scraper import Scraper, ScraperError
 
 
 class _IngredientHTMLParser(HTMLParser):
@@ -37,58 +32,26 @@ class _IngredientHTMLParser(HTMLParser):
         return " ".join(self._parts)
 
 
-def parse_ingredients(html: str) -> str:
-    parser = _IngredientHTMLParser()
-    parser.feed(html)
-    return parser.extract()
+class AniaGotujeIngredientExtractor:
+    def __init__(self, scraper: Optional[Scraper] = None) -> None:
+        self._scraper = scraper or Scraper()
 
+    @staticmethod
+    def parse_ingredients(html: str) -> str:
+        parser = _IngredientHTMLParser()
+        parser.feed(html)
+        return parser.extract()
 
-def fetch_ingredients(scraper: Scraper, url: str) -> str:
-    try:
-        result = scraper.fetch(url)
-    except ScraperError as exc:
-        raise ScraperError(f"Failed to fetch ingredients from {url}: {exc}") from exc
-    return parse_ingredients(result.content)
+    def fetch_ingredients(self, url: str) -> dict[str, str]:
+        try:
+            result = self._scraper.fetch(url)
+        except ScraperError as exc:
+            raise ScraperError(
+                f"Failed to fetch ingredients from {url}: {exc}"
+            ) from exc
 
-
-def build_parser() -> argparse.ArgumentParser:
-    parser = argparse.ArgumentParser(
-        description="Extract AniaGotuje recipe ingredients."
-    )
-    parser.add_argument("url", help="Recipe page URL")
-    parser.add_argument(
-        "--pretty",
-        action="store_true",
-        help="Pretty-print JSON output",
-    )
-    return parser
-
-
-def main() -> int:
-    parser = build_parser()
-    args = parser.parse_args()
-    scraper = Scraper()
-    try:
-        ingredients = fetch_ingredients(scraper, args.url)
-    except ScraperError as exc:
-        print(f"Error: {exc}", file=sys.stderr)
-        return 1
-    payload = {"url": args.url, "ingredients": ingredients}
-    indent = 2 if args.pretty else None
-    print(json.dumps(payload, ensure_ascii=False, indent=indent))
-    return 0
-
-
-__all__ = [
-    "ScrapeResult",
-    "Scraper",
-    "ScraperError",
-    "build_parser",
-    "fetch_ingredients",
-    "main",
-    "parse_ingredients",
-]
-
-
-if __name__ == "__main__":
-    raise SystemExit(main())
+        ingredients = self.parse_ingredients(result.content)
+        return {
+            "url": url,
+            "ingredients": ingredients,
+        }
