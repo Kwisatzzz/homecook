@@ -1,6 +1,4 @@
 #!/usr/bin/env python3
-"""Minimal scraper for fetching raw page content."""
-
 from dataclasses import dataclass
 from typing import Optional
 from urllib.error import HTTPError, URLError
@@ -10,7 +8,6 @@ from urllib.request import Request, urlopen
 class ScraperError(Exception):
     """Raised when scraping fails in a recoverable way."""
 
-
 @dataclass(frozen=True)
 class ScrapeResult:
     url: str
@@ -19,8 +16,6 @@ class ScrapeResult:
 
 
 class Scraper:
-    """Fetch raw HTML content from a URL without parsing."""
-
     def __init__(self, user_agent: Optional[str] = None, timeout_s: int = 30) -> None:
         self._user_agent = user_agent or "Mozilla/5.0 (compatible; HomecookScraper/1.0)"
         self._timeout_s = timeout_s
