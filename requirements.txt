@@ -1,3 +1,4 @@
+beautifulsoup4==4.14.3
 langchain==0.2.17
 transformers==4.46.3
 pydantic==2.10.6
