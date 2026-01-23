@@ -1,0 +1,460 @@
+[
+{
+  "url": "https://aniagotuje.pl/przepis/chlebek-bananowy",
+  "ingredients": [
+    {
+      "quantity": "3",
+      "unit": "szt",
+      "name": "banany"
+    },
+    {
+      "quantity": "255",
+      "unit": "g",
+      "name": "cukier"
+    },
+    {
+      "quantity": "3",
+      "unit": "szt",
+      "name": "jajko"
+    },
+    {
+      "quantity": "136.67",
+      "unit": "g",
+      "name": "masło"
+    },
+    {
+      "quantity": "615",
+      "unit": "g",
+      "name": "mąka pszenna uniwersalna"
+    },
+    {
+      "quantity": "5",
+      "unit": "g",
+      "name": "soda oczyszczona"
+    }
+  ]
+},
+{
+  "url": "https://aniagotuje.pl/przepis/chlebek-bananowy-z-maslem-orzechowym",
+  "ingredients": [
+    {
+      "quantity": "250",
+      "unit": "g",
+      "name": "banany"
+    },
+    {
+      "quantity": "2.5",
+      "unit": "szt",
+      "name": "banany"
+    },
+    {
+      "quantity": "130",
+      "unit": "g",
+      "name": "cukier"
+    },
+    {
+      "quantity": "185",
+      "unit": "g",
+      "name": "jajka"
+    },
+    {
+      "quantity": "3",
+      "unit": "szt",
+      "name": "jajka"
+    },
+    {
+      "quantity": "5",
+      "unit": "g",
+      "name": "kakao"
+    },
+    {
+      "quantity": "225",
+      "unit": "g",
+      "name": "masło orzechowe"
+    },
+    {
+      "quantity": "220",
+      "unit": "g",
+      "name": "mąka pszenna tortowa"
+    },
+    {
+      "quantity": "50",
+      "unit": "ml",
+      "name": "olej roślinny"
+    },
+    {
+      "quantity": "20",
+      "unit": "g",
+      "name": "orzechy ziemne"
+    },
+    {
+      "quantity": "5",
+      "unit": "ml",
+      "name": "proszek do pieczenia"
+    },
+    {
+      "quantity": "5",
+      "unit": "ml",
+      "name": "soda oczyszczona"
+    },
+    {
+      "quantity": "1.25",
+      "unit": "ml",
+      "name": "sól"
+    }
+  ]
+},
+{
+  "url": "https://aniagotuje.pl/przepis/ciasta-bez-pieczenia",
+  "ingredients": []
+},
+{
+  "url": "https://aniagotuje.pl/przepis/ciasteczka-budyniowe",
+  "ingredients": [
+    {
+      "quantity": "40",
+      "unit": "g",
+      "name": "budyń bez cukru"
+    },
+    {
+      "quantity": "50",
+      "unit": "g",
+      "name": "cukier puder"
+    },
+    {
+      "quantity": "120",
+      "unit": "g",
+      "name": "masło"
+    },
+    {
+      "quantity": "120",
+      "unit": "g",
+      "name": "mąka pszenna tortowa"
+    },
+    {
+      "quantity": "2.5",
+      "unit": "g",
+      "name": "proszek do pieczenia"
+    }
+  ]
+},
+{
+  "url": "https://aniagotuje.pl/przepis/ciasto-marchewkowe",
+  "ingredients": [
+    {
+      "quantity": "150",
+      "unit": "g",
+      "name": "cukier puder"
+    },
+    {
+      "quantity": "275",
+      "unit": "g",
+      "name": "cukier trzcinowy"
+    },
+    {
+      "quantity": "183.33",
+      "unit": "g",
+      "name": "cukier zwykły"
+    },
+    {
+      "quantity": "9",
+      "unit": "szt",
+      "name": "jajka"
+    },
+    {
+      "quantity": "1050",
+      "unit": "g",
+      "name": "marchewka"
+    },
+    {
+      "quantity": "300",
+      "unit": "g",
+      "name": "masło"
+    },
+    {
+      "quantity": "203.33",
+      "unit": "g",
+      "name": "mus jabłkowy"
+    },
+    {
+      "quantity": "625",
+      "unit": "g",
+      "name": "mąka pszenna tortowa"
+    },
+    {
+      "quantity": "367.5",
+      "unit": "ml",
+      "name": "olej roślinny"
+    },
+    {
+      "quantity": "10",
+      "unit": "g",
+      "name": "proszek do pieczenia"
+    },
+    {
+      "quantity": "250",
+      "unit": "g",
+      "name": "serka philadelphia"
+    },
+    {
+      "quantity": "5",
+      "unit": "g",
+      "name": "soda oczyszczona"
+    },
+    {
+      "quantity": "2.5",
+      "unit": "g",
+      "name": "sól"
+    }
+  ]
+},
+{
+  "url": "https://aniagotuje.pl/przepis/ciasto-michalek",
+  "ingredients": [
+    {
+      "quantity": "80",
+      "unit": "g",
+      "name": "budyń waniliowy lub śmietankowy bez cukru"
+    },
+    {
+      "quantity": "300",
+      "unit": "g",
+      "name": "cukier drobny"
+    },
+    {
+      "quantity": "50",
+      "unit": "g",
+      "name": "cukier puder"
+    },
+    {
+      "quantity": "43",
+      "unit": "g",
+      "name": "cukier wanilinowy"
+    },
+    {
+      "quantity": "280",
+      "unit": "g",
+      "name": "cukierki michałki klasyczne"
+    },
+    {
+      "quantity": "300",
+      "unit": "g",
+      "name": "dżem"
+    },
+    {
+      "quantity": "5",
+      "unit": "szt",
+      "name": "jajka"
+    },
+    {
+      "quantity": "35",
+      "unit": "g",
+      "name": "kakao"
+    },
+    {
+      "quantity": "200",
+      "unit": "g",
+      "name": "masło"
+    },
+    {
+      "quantity": "1000",
+      "unit": "ml",
+      "name": "mleko"
+    },
+    {
+      "quantity": "310",
+      "unit": "g",
+      "name": "mąka pszenna uniwersalna"
+    },
+    {
+      "quantity": "347.5",
+      "unit": "ml",
+      "name": "olej roślinny"
+    },
+    {
+      "quantity": "5",
+      "unit": "g",
+      "name": "proszek do pieczenia"
+    },
+    {
+      "quantity": "250",
+      "unit": "g",
+      "name": "ser ek mascarpone"
+    },
+    {
+      "quantity": "5",
+      "unit": "g",
+      "name": "soda oczyszczona"
+    },
+    {
+      "quantity": "250",
+      "unit": "ml",
+      "name": "woda"
+    },
+    {
+      "quantity": "200",
+      "unit": "ml",
+      "name": "śmietanka kremówka 36 %"
+    }
+  ]
+},
+{
+  "url": "https://aniagotuje.pl/przepis/fasolka-po-bretonsku",
+  "ingredients": [
+    {
+      "quantity": "300",
+      "unit": "g",
+      "name": "boczek surowy wędzony"
+    },
+    {
+      "quantity": "160",
+      "unit": "g",
+      "name": "cebula"
+    },
+    {
+      "quantity": "1",
+      "unit": "szt",
+      "name": "cebula"
+    },
+    {
+      "quantity": "25",
+      "unit": "g",
+      "name": "czosnek"
+    },
+    {
+      "quantity": "5",
+      "unit": "szt",
+      "name": "czosnek"
+    },
+    {
+      "quantity": "500",
+      "unit": "g",
+      "name": "fasola sucha"
+    },
+    {
+      "quantity": "400",
+      "unit": "g",
+      "name": "kiełbasa"
+    },
+    {
+      "quantity": "35",
+      "unit": "g",
+      "name": "koncentrat pomidorowy"
+    },
+    {
+      "quantity": "2.5",
+      "unit": "szt",
+      "name": "liście laurowe"
+    },
+    {
+      "quantity": "15",
+      "unit": "g",
+      "name": "majeranek"
+    },
+    {
+      "quantity": "5",
+      "unit": "g",
+      "name": "papryka wędzona"
+    },
+    {
+      "quantity": "5",
+      "unit": "g",
+      "name": "pieprz"
+    },
+    {
+      "quantity": "1500",
+      "unit": "g",
+      "name": "pomidory"
+    },
+    {
+      "quantity": "10",
+      "unit": "g",
+      "name": "sól"
+    },
+    {
+      "quantity": "1000",
+      "unit": "ml",
+      "name": "woda"
+    },
+    {
+      "quantity": "3",
+      "unit": "szt",
+      "name": "ziele angielskie"
+    }
+  ]
+},
+{
+  "url": "https://aniagotuje.pl/przepis/faworki",
+  "ingredients": [
+    {
+      "quantity": "67.5",
+      "unit": "g",
+      "name": "cukier puder"
+    },
+    {
+      "quantity": "4",
+      "unit": "szt",
+      "name": "jajka"
+    },
+    {
+      "quantity": "15",
+      "unit": "g",
+      "name": "masło"
+    },
+    {
+      "quantity": "1025",
+      "unit": "g",
+      "name": "mąka pszenna tortowa"
+    },
+    {
+      "quantity": "500",
+      "unit": "ml",
+      "name": "olej"
+    },
+    {
+      "quantity": "500",
+      "unit": "ml",
+      "name": "smalec"
+    },
+    {
+      "quantity": "275",
+      "unit": "ml",
+      "name": "śmietana"
+    }
+  ]
+},
+{
+  "url": "https://aniagotuje.pl/przepis/gofry",
+  "ingredients": [
+    {
+      "quantity": "5",
+      "unit": "g",
+      "name": "cukru"
+    },
+    {
+      "quantity": "3",
+      "unit": "szt",
+      "name": "jajka"
+    },
+    {
+      "quantity": "750",
+      "unit": "ml",
+      "name": "mleka"
+    },
+    {
+      "quantity": "775",
+      "unit": "g",
+      "name": "mąki pszennej"
+    },
+    {
+      "quantity": "163.33",
+      "unit": "ml",
+      "name": "oleju"
+    },
+    {
+      "quantity": "5",
+      "unit": "g",
+      "name": "proszku do pieczenia"
+    }
+  ]
+}
