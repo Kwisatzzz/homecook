@@ -1,6 +1,7 @@
 beautifulsoup4==4.14.3
-langchain==0.2.17
-transformers==4.46.3
-pydantic==2.10.6
 black==24.8.0
+langchain==0.2.17
+pydantic==2.10.6
 python-dotenv==1.0.1
+tqdm==4.67.1
+transformers==4.46.3
