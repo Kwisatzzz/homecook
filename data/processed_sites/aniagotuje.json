@@ -1,0 +1,4901 @@
+[
+{
+  "url": "https://aniagotuje.pl/przepis/chlebek-bananowy",
+  "ingredients": [
+    {
+      "quantity": "3",
+      "unit": "szt",
+      "name": "banany"
+    },
+    {
+      "quantity": "255",
+      "unit": "g",
+      "name": "cukier"
+    },
+    {
+      "quantity": "3",
+      "unit": "szt",
+      "name": "jajko"
+    },
+    {
+      "quantity": "136.67",
+      "unit": "g",
+      "name": "masło"
+    },
+    {
+      "quantity": "615",
+      "unit": "g",
+      "name": "mąka pszenna uniwersalna"
+    },
+    {
+      "quantity": "5",
+      "unit": "g",
+      "name": "soda oczyszczona"
+    }
+  ]
+},
+{
+  "url": "https://aniagotuje.pl/przepis/chlebek-bananowy-z-maslem-orzechowym",
+  "ingredients": [
+    {
+      "quantity": "250",
+      "unit": "g",
+      "name": "banany"
+    },
+    {
+      "quantity": "2.5",
+      "unit": "szt",
+      "name": "banany"
+    },
+    {
+      "quantity": "130",
+      "unit": "g",
+      "name": "cukier"
+    },
+    {
+      "quantity": "185",
+      "unit": "g",
+      "name": "jajka"
+    },
+    {
+      "quantity": "3",
+      "unit": "szt",
+      "name": "jajka"
+    },
+    {
+      "quantity": "5",
+      "unit": "g",
+      "name": "kakao"
+    },
+    {
+      "quantity": "225",
+      "unit": "g",
+      "name": "masło orzechowe"
+    },
+    {
+      "quantity": "220",
+      "unit": "g",
+      "name": "mąka pszenna tortowa"
+    },
+    {
+      "quantity": "50",
+      "unit": "ml",
+      "name": "olej roślinny"
+    },
+    {
+      "quantity": "20",
+      "unit": "g",
+      "name": "orzechy ziemne"
+    },
+    {
+      "quantity": "5",
+      "unit": "ml",
+      "name": "proszek do pieczenia"
+    },
+    {
+      "quantity": "5",
+      "unit": "ml",
+      "name": "soda oczyszczona"
+    },
+    {
+      "quantity": "1.25",
+      "unit": "ml",
+      "name": "sól"
+    }
+  ]
+},
+{
+  "url": "https://aniagotuje.pl/przepis/ciasta-bez-pieczenia",
+  "ingredients": []
+},
+{
+  "url": "https://aniagotuje.pl/przepis/ciasteczka-budyniowe",
+  "ingredients": [
+    {
+      "quantity": "40",
+      "unit": "g",
+      "name": "budyń bez cukru"
+    },
+    {
+      "quantity": "50",
+      "unit": "g",
+      "name": "cukier puder"
+    },
+    {
+      "quantity": "120",
+      "unit": "g",
+      "name": "masło"
+    },
+    {
+      "quantity": "120",
+      "unit": "g",
+      "name": "mąka pszenna tortowa"
+    },
+    {
+      "quantity": "2.5",
+      "unit": "g",
+      "name": "proszek do pieczenia"
+    }
+  ]
+},
+{
+  "url": "https://aniagotuje.pl/przepis/ciasto-marchewkowe",
+  "ingredients": [
+    {
+      "quantity": "150",
+      "unit": "g",
+      "name": "cukier puder"
+    },
+    {
+      "quantity": "275",
+      "unit": "g",
+      "name": "cukier trzcinowy"
+    },
+    {
+      "quantity": "183.33",
+      "unit": "g",
+      "name": "cukier zwykły"
+    },
+    {
+      "quantity": "9",
+      "unit": "szt",
+      "name": "jajka"
+    },
+    {
+      "quantity": "1050",
+      "unit": "g",
+      "name": "marchewka"
+    },
+    {
+      "quantity": "300",
+      "unit": "g",
+      "name": "masło"
+    },
+    {
+      "quantity": "203.33",
+      "unit": "g",
+      "name": "mus jabłkowy"
+    },
+    {
+      "quantity": "625",
+      "unit": "g",
+      "name": "mąka pszenna tortowa"
+    },
+    {
+      "quantity": "367.5",
+      "unit": "ml",
+      "name": "olej roślinny"
+    },
+    {
+      "quantity": "10",
+      "unit": "g",
+      "name": "proszek do pieczenia"
+    },
+    {
+      "quantity": "250",
+      "unit": "g",
+      "name": "serka philadelphia"
+    },
+    {
+      "quantity": "5",
+      "unit": "g",
+      "name": "soda oczyszczona"
+    },
+    {
+      "quantity": "2.5",
+      "unit": "g",
+      "name": "sól"
+    }
+  ]
+},
+{
+  "url": "https://aniagotuje.pl/przepis/ciasto-michalek",
+  "ingredients": [
+    {
+      "quantity": "80",
+      "unit": "g",
+      "name": "budyń waniliowy lub śmietankowy bez cukru"
+    },
+    {
+      "quantity": "300",
+      "unit": "g",
+      "name": "cukier drobny"
+    },
+    {
+      "quantity": "50",
+      "unit": "g",
+      "name": "cukier puder"
+    },
+    {
+      "quantity": "43",
+      "unit": "g",
+      "name": "cukier wanilinowy"
+    },
+    {
+      "quantity": "280",
+      "unit": "g",
+      "name": "cukierki michałki klasyczne"
+    },
+    {
+      "quantity": "300",
+      "unit": "g",
+      "name": "dżem"
+    },
+    {
+      "quantity": "5",
+      "unit": "szt",
+      "name": "jajka"
+    },
+    {
+      "quantity": "35",
+      "unit": "g",
+      "name": "kakao"
+    },
+    {
+      "quantity": "200",
+      "unit": "g",
+      "name": "masło"
+    },
+    {
+      "quantity": "1000",
+      "unit": "ml",
+      "name": "mleko"
+    },
+    {
+      "quantity": "310",
+      "unit": "g",
+      "name": "mąka pszenna uniwersalna"
+    },
+    {
+      "quantity": "347.5",
+      "unit": "ml",
+      "name": "olej roślinny"
+    },
+    {
+      "quantity": "5",
+      "unit": "g",
+      "name": "proszek do pieczenia"
+    },
+    {
+      "quantity": "250",
+      "unit": "g",
+      "name": "ser ek mascarpone"
+    },
+    {
+      "quantity": "5",
+      "unit": "g",
+      "name": "soda oczyszczona"
+    },
+    {
+      "quantity": "250",
+      "unit": "ml",
+      "name": "woda"
+    },
+    {
+      "quantity": "200",
+      "unit": "ml",
+      "name": "śmietanka kremówka 36 %"
+    }
+  ]
+},
+{
+  "url": "https://aniagotuje.pl/przepis/fasolka-po-bretonsku",
+  "ingredients": [
+    {
+      "quantity": "300",
+      "unit": "g",
+      "name": "boczek surowy wędzony"
+    },
+    {
+      "quantity": "160",
+      "unit": "g",
+      "name": "cebula"
+    },
+    {
+      "quantity": "1",
+      "unit": "szt",
+      "name": "cebula"
+    },
+    {
+      "quantity": "25",
+      "unit": "g",
+      "name": "czosnek"
+    },
+    {
+      "quantity": "5",
+      "unit": "szt",
+      "name": "czosnek"
+    },
+    {
+      "quantity": "500",
+      "unit": "g",
+      "name": "fasola sucha"
+    },
+    {
+      "quantity": "400",
+      "unit": "g",
+      "name": "kiełbasa"
+    },
+    {
+      "quantity": "35",
+      "unit": "g",
+      "name": "koncentrat pomidorowy"
+    },
+    {
+      "quantity": "2.5",
+      "unit": "szt",
+      "name": "liście laurowe"
+    },
+    {
+      "quantity": "15",
+      "unit": "g",
+      "name": "majeranek"
+    },
+    {
+      "quantity": "5",
+      "unit": "g",
+      "name": "papryka wędzona"
+    },
+    {
+      "quantity": "5",
+      "unit": "g",
+      "name": "pieprz"
+    },
+    {
+      "quantity": "1500",
+      "unit": "g",
+      "name": "pomidory"
+    },
+    {
+      "quantity": "10",
+      "unit": "g",
+      "name": "sól"
+    },
+    {
+      "quantity": "1000",
+      "unit": "ml",
+      "name": "woda"
+    },
+    {
+      "quantity": "3",
+      "unit": "szt",
+      "name": "ziele angielskie"
+    }
+  ]
+},
+{
+  "url": "https://aniagotuje.pl/przepis/faworki",
+  "ingredients": [
+    {
+      "quantity": "67.5",
+      "unit": "g",
+      "name": "cukier puder"
+    },
+    {
+      "quantity": "4",
+      "unit": "szt",
+      "name": "jajka"
+    },
+    {
+      "quantity": "15",
+      "unit": "g",
+      "name": "masło"
+    },
+    {
+      "quantity": "1025",
+      "unit": "g",
+      "name": "mąka pszenna tortowa"
+    },
+    {
+      "quantity": "500",
+      "unit": "ml",
+      "name": "olej"
+    },
+    {
+      "quantity": "500",
+      "unit": "ml",
+      "name": "smalec"
+    },
+    {
+      "quantity": "275",
+      "unit": "ml",
+      "name": "śmietana"
+    }
+  ]
+},
+{
+  "url": "https://aniagotuje.pl/przepis/gofry",
+  "ingredients": [
+    {
+      "quantity": "5",
+      "unit": "g",
+      "name": "cukru"
+    },
+    {
+      "quantity": "3",
+      "unit": "szt",
+      "name": "jajka"
+    },
+    {
+      "quantity": "750",
+      "unit": "ml",
+      "name": "mleka"
+    },
+    {
+      "quantity": "775",
+      "unit": "g",
+      "name": "mąki pszennej"
+    },
+    {
+      "quantity": "163.33",
+      "unit": "ml",
+      "name": "oleju"
+    },
+    {
+      "quantity": "5",
+      "unit": "g",
+      "name": "proszku do pieczenia"
+    }
+  ]
+},
+{
+  "url": "https://aniagotuje.pl/przepis/jak-zrobic-ciasto-na-nalesniki",
+  "ingredients": [
+    {
+      "quantity": "165",
+      "unit": "g",
+      "name": "jajka"
+    },
+    {
+      "quantity": "3",
+      "unit": "szt",
+      "name": "jajka"
+    },
+    {
+      "quantity": "500",
+      "unit": "ml",
+      "name": "mleka"
+    },
+    {
+      "quantity": "500",
+      "unit": "g",
+      "name": "mąki pszennej"
+    },
+    {
+      "quantity": "100",
+      "unit": "ml",
+      "name": "oleju roślinnego"
+    },
+    {
+      "quantity": "500",
+      "unit": "ml",
+      "name": "wody"
+    }
+  ]
+},
+{
+  "url": "https://aniagotuje.pl/przepis/kanapeczki",
+  "ingredients": [
+    {
+      "quantity": "0.5",
+      "unit": "szt",
+      "name": "awokado"
+    },
+    {
+      "quantity": "160",
+      "unit": "g",
+      "name": "bagietka"
+    },
+    {
+      "quantity": "160",
+      "unit": "g",
+      "name": "bułka grahamka"
+    },
+    {
+      "quantity": "160",
+      "unit": "g",
+      "name": "bułka z ziarnami"
+    },
+    {
+      "quantity": "40",
+      "unit": "g",
+      "name": "kabanosy"
+    },
+    {
+      "quantity": "120",
+      "unit": "g",
+      "name": "mozzarela"
+    },
+    {
+      "quantity": "25",
+      "unit": "g",
+      "name": "ogórek"
+    },
+    {
+      "quantity": "5",
+      "unit": "ml",
+      "name": "oliwa"
+    },
+    {
+      "quantity": "25",
+      "unit": "szt",
+      "name": "oliwki"
+    },
+    {
+      "quantity": "4",
+      "unit": "szt",
+      "name": "orzechy włoskie"
+    },
+    {
+      "quantity": "80",
+      "unit": "g",
+      "name": "pasta"
+    },
+    {
+      "quantity": "5",
+      "unit": "g",
+      "name": "pieprz"
+    },
+    {
+      "quantity": "80",
+      "unit": "g",
+      "name": "ser pleśniowy"
+    },
+    {
+      "quantity": "80",
+      "unit": "g",
+      "name": "ser pospolity"
+    },
+    {
+      "quantity": "80",
+      "unit": "g",
+      "name": "ser żółty"
+    },
+    {
+      "quantity": "5",
+      "unit": "ml",
+      "name": "sok z cytryny"
+    },
+    {
+      "quantity": "40",
+      "unit": "g",
+      "name": "szynka parmeńska"
+    },
+    {
+      "quantity": "15",
+      "unit": "g",
+      "name": "winogrona"
+    },
+    {
+      "quantity": "4",
+      "unit": "szt",
+      "name": "winogrona"
+    },
+    {
+      "quantity": "120",
+      "unit": "g",
+      "name": "łosoś wędzony"
+    }
+  ]
+},
+{
+  "url": "https://aniagotuje.pl/przepis/kebab",
+  "ingredients": [
+    {
+      "quantity": "1",
+      "unit": "szt",
+      "name": "cebula"
+    },
+    {
+      "quantity": "10",
+      "unit": "ml",
+      "name": "czosnek"
+    },
+    {
+      "quantity": "2.5",
+      "unit": "g",
+      "name": "kolendra"
+    },
+    {
+      "quantity": "2.5",
+      "unit": "g",
+      "name": "kumin"
+    },
+    {
+      "quantity": "45",
+      "unit": "ml",
+      "name": "olej roślinny"
+    },
+    {
+      "quantity": "10",
+      "unit": "ml",
+      "name": "papryka"
+    },
+    {
+      "quantity": "3",
+      "unit": "szt",
+      "name": "patyczki do szaszłyków"
+    },
+    {
+      "quantity": "1.67",
+      "unit": "g",
+      "name": "pieprz"
+    },
+    {
+      "quantity": "2.5",
+      "unit": "g",
+      "name": "sól"
+    },
+    {
+      "quantity": "1000",
+      "unit": "g",
+      "name": "udek"
+    }
+  ]
+},
+{
+  "url": "https://aniagotuje.pl/przepis/kluski-leniwe",
+  "ingredients": [
+    {
+      "quantity": "30",
+      "unit": "g",
+      "name": "cukier waniliowy"
+    },
+    {
+      "quantity": "2",
+      "unit": "szt",
+      "name": "jajka"
+    },
+    {
+      "quantity": "60",
+      "unit": "g",
+      "name": "masło"
+    },
+    {
+      "quantity": "100",
+      "unit": "g",
+      "name": "mąka pszenna"
+    },
+    {
+      "quantity": "500",
+      "unit": "g",
+      "name": "twaróg"
+    },
+    {
+      "quantity": "83.33",
+      "unit": "ml",
+      "name": "śmietanka"
+    }
+  ]
+},
+{
+  "url": "https://aniagotuje.pl/przepis/kotlety-mielone",
+  "ingredients": [
+    {
+      "quantity": "30",
+      "unit": "g",
+      "name": "bułka tarta"
+    },
+    {
+      "quantity": "180",
+      "unit": "g",
+      "name": "cebulka"
+    },
+    {
+      "quantity": "1",
+      "unit": "szt",
+      "name": "cebulka"
+    },
+    {
+      "quantity": "1",
+      "unit": "szt",
+      "name": "czosnek"
+    },
+    {
+      "quantity": "1",
+      "unit": "szt",
+      "name": "jajko"
+    },
+    {
+      "quantity": "0.5",
+      "unit": "szt",
+      "name": "kajzerka"
+    },
+    {
+      "quantity": "5",
+      "unit": "g",
+      "name": "majeranek"
+    },
+    {
+      "quantity": "2.5",
+      "unit": "g",
+      "name": "pieprz"
+    },
+    {
+      "quantity": "5",
+      "unit": "g",
+      "name": "sól"
+    },
+    {
+      "quantity": "500",
+      "unit": "g",
+      "name": "łopatka wieprzowa"
+    }
+  ]
+},
+{
+  "url": "https://aniagotuje.pl/przepis/lasagne-ze-szpinakiem",
+  "ingredients": [
+    {
+      "quantity": "4",
+      "unit": "szt",
+      "name": "czosnek"
+    },
+    {
+      "quantity": "160",
+      "unit": "g",
+      "name": "makaron"
+    },
+    {
+      "quantity": "9",
+      "unit": "szt",
+      "name": "makaron"
+    },
+    {
+      "quantity": "25",
+      "unit": "g",
+      "name": "masło"
+    },
+    {
+      "quantity": "300",
+      "unit": "ml",
+      "name": "mleko"
+    },
+    {
+      "quantity": "60",
+      "unit": "g",
+      "name": "mąka"
+    },
+    {
+      "quantity": "2.5",
+      "unit": "ml",
+      "name": "pieprz"
+    },
+    {
+      "quantity": "200",
+      "unit": "g",
+      "name": "ser feta"
+    },
+    {
+      "quantity": "200",
+      "unit": "g",
+      "name": "ser mozzarella"
+    },
+    {
+      "quantity": "500",
+      "unit": "g",
+      "name": "szpinak"
+    },
+    {
+      "quantity": "1.25",
+      "unit": "ml",
+      "name": "sól"
+    }
+  ]
+},
+{
+  "url": "https://aniagotuje.pl/przepis/leczo",
+  "ingredients": [
+    {
+      "quantity": "3",
+      "unit": "szt",
+      "name": "cebule"
+    },
+    {
+      "quantity": "4",
+      "unit": "szt",
+      "name": "czosnek"
+    },
+    {
+      "quantity": "200",
+      "unit": "g",
+      "name": "kiełbasa"
+    },
+    {
+      "quantity": "60",
+      "unit": "ml",
+      "name": "olej lub smalec"
+    },
+    {
+      "quantity": "2.5",
+      "unit": "g",
+      "name": "papryka ostra"
+    },
+    {
+      "quantity": "15",
+      "unit": "g",
+      "name": "papryka słodka"
+    },
+    {
+      "quantity": "5",
+      "unit": "g",
+      "name": "papryka wędzona"
+    },
+    {
+      "quantity": "5",
+      "unit": "szt",
+      "name": "papryki"
+    },
+    {
+      "quantity": "1.25",
+      "unit": "g",
+      "name": "pieprz"
+    },
+    {
+      "quantity": "6",
+      "unit": "szt",
+      "name": "pomidory malinowe"
+    },
+    {
+      "quantity": "5",
+      "unit": "g",
+      "name": "sól"
+    }
+  ]
+},
+{
+  "url": "https://aniagotuje.pl/przepis/malinowa-chmurka",
+  "ingredients": [
+    {
+      "quantity": "150",
+      "unit": "g",
+      "name": "cukier"
+    },
+    {
+      "quantity": "165",
+      "unit": "g",
+      "name": "cukier puder"
+    },
+    {
+      "quantity": "15",
+      "unit": "g",
+      "name": "cukier wanilinowy"
+    },
+    {
+      "quantity": "5",
+      "unit": "g",
+      "name": "esencja waniliowa"
+    },
+    {
+      "quantity": "6",
+      "unit": "szt",
+      "name": "jajko"
+    },
+    {
+      "quantity": "1",
+      "unit": "szt",
+      "name": "laska wanilii"
+    },
+    {
+      "quantity": "500",
+      "unit": "g",
+      "name": "maliny"
+    },
+    {
+      "quantity": "110",
+      "unit": "g",
+      "name": "masło"
+    },
+    {
+      "quantity": "430",
+      "unit": "g",
+      "name": "mąka pszenna"
+    },
+    {
+      "quantity": "5",
+      "unit": "g",
+      "name": "pasta waniliowa"
+    },
+    {
+      "quantity": "5",
+      "unit": "g",
+      "name": "proszek do pieczenia"
+    },
+    {
+      "quantity": "50",
+      "unit": "g",
+      "name": "płatki migdałowe"
+    },
+    {
+      "quantity": "250",
+      "unit": "g",
+      "name": "ser mascarpone"
+    },
+    {
+      "quantity": "15",
+      "unit": "g",
+      "name": "skrobia ziemniaczana"
+    },
+    {
+      "quantity": "2060",
+      "unit": "ml",
+      "name": "woda"
+    },
+    {
+      "quantity": "500",
+      "unit": "ml",
+      "name": "śmietanka kremówka"
+    },
+    {
+      "quantity": "10",
+      "unit": "g",
+      "name": "żelatyna"
+    }
+  ]
+},
+{
+  "url": "https://aniagotuje.pl/przepis/mini-paczki-ze-skyrem",
+  "ingredients": [
+    {
+      "quantity": "50",
+      "unit": "g",
+      "name": "cukier puder lub erytrol"
+    },
+    {
+      "quantity": "60",
+      "unit": "g",
+      "name": "jajko"
+    },
+    {
+      "quantity": "1",
+      "unit": "szt",
+      "name": "jajko"
+    },
+    {
+      "quantity": "250",
+      "unit": "g",
+      "name": "mąka pszenna tortowa"
+    },
+    {
+      "quantity": "10",
+      "unit": "g",
+      "name": "proszek do pieczenia"
+    },
+    {
+      "quantity": "350",
+      "unit": "g",
+      "name": "sky r waniliowy"
+    }
+  ]
+},
+{
+  "url": "https://aniagotuje.pl/przepis/najlepsze-ciasto-na-pizze",
+  "ingredients": [
+    {
+      "quantity": "5",
+      "unit": "g",
+      "name": "cukru"
+    },
+    {
+      "quantity": "25",
+      "unit": "g",
+      "name": "drożdży"
+    },
+    {
+      "quantity": "1075",
+      "unit": "g",
+      "name": "mąki pszennej"
+    },
+    {
+      "quantity": "15",
+      "unit": "ml",
+      "name": "oliwy z oliwek"
+    },
+    {
+      "quantity": "5",
+      "unit": "g",
+      "name": "soli"
+    },
+    {
+      "quantity": "500",
+      "unit": "ml",
+      "name": "wody"
+    }
+  ]
+},
+{
+  "url": "https://aniagotuje.pl/przepis/nalesniki-ze-skyrem",
+  "ingredients": [
+    {
+      "quantity": "120",
+      "unit": "g",
+      "name": "jajka"
+    },
+    {
+      "quantity": "2",
+      "unit": "szt",
+      "name": "jajka"
+    },
+    {
+      "quantity": "15",
+      "unit": "g",
+      "name": "masło klarowane"
+    },
+    {
+      "quantity": "120",
+      "unit": "g",
+      "name": "mąka pszenna"
+    },
+    {
+      "quantity": "350",
+      "unit": "g",
+      "name": "sky pitny"
+    },
+    {
+      "quantity": "100",
+      "unit": "ml",
+      "name": "woda"
+    }
+  ]
+},
+{
+  "url": "https://aniagotuje.pl/przepis/pancakes-sniadaniowe",
+  "ingredients": [
+    {
+      "quantity": "25",
+      "unit": "g",
+      "name": "cukru"
+    },
+    {
+      "quantity": "3",
+      "unit": "szt",
+      "name": "jajka"
+    },
+    {
+      "quantity": "30",
+      "unit": "g",
+      "name": "jogurtu naturalnego"
+    },
+    {
+      "quantity": "30",
+      "unit": "g",
+      "name": "masła"
+    },
+    {
+      "quantity": "250",
+      "unit": "ml",
+      "name": "mleka"
+    },
+    {
+      "quantity": "200",
+      "unit": "g",
+      "name": "mąki pszennej"
+    },
+    {
+      "quantity": "30",
+      "unit": "ml",
+      "name": "oleju roślinnego"
+    },
+    {
+      "quantity": "3",
+      "unit": "g",
+      "name": "sody oczyszczonej"
+    }
+  ]
+},
+{
+  "url": "https://aniagotuje.pl/przepis/perfekcyjny-omlet",
+  "ingredients": [
+    {
+      "quantity": "10",
+      "unit": "g",
+      "name": "cukru"
+    },
+    {
+      "quantity": "4",
+      "unit": "szt",
+      "name": "jajka"
+    },
+    {
+      "quantity": "140",
+      "unit": "g",
+      "name": "mąki pszennej"
+    }
+  ]
+},
+{
+  "url": "https://aniagotuje.pl/przepis/placki-twarogowe-fit",
+  "ingredients": [
+    {
+      "quantity": "50",
+      "unit": "g",
+      "name": "erytrol"
+    },
+    {
+      "quantity": "3",
+      "unit": "szt",
+      "name": "jajka"
+    },
+    {
+      "quantity": "10",
+      "unit": "g",
+      "name": "masło"
+    },
+    {
+      "quantity": "205",
+      "unit": "g",
+      "name": "mąka"
+    },
+    {
+      "quantity": "250",
+      "unit": "g",
+      "name": "twaróg"
+    }
+  ]
+},
+{
+  "url": "https://aniagotuje.pl/przepis/prosty-sernik-bez-spodu-z-sera-z-wiaderka",
+  "ingredients": [
+    {
+      "quantity": "40",
+      "unit": "g",
+      "name": "budyń waniliowy"
+    },
+    {
+      "quantity": "337.5",
+      "unit": "g",
+      "name": "cukier"
+    },
+    {
+      "quantity": "240",
+      "unit": "g",
+      "name": "jajka"
+    },
+    {
+      "quantity": "4",
+      "unit": "szt",
+      "name": "jajka"
+    },
+    {
+      "quantity": "400",
+      "unit": "g",
+      "name": "masło"
+    },
+    {
+      "quantity": "1000",
+      "unit": "g",
+      "name": "mielony twaróg"
+    }
+  ]
+},
+{
+  "url": "https://aniagotuje.pl/przepis/racuchy-z-jablkami",
+  "ingredients": [
+    {
+      "quantity": "400",
+      "unit": "g",
+      "name": "jabłka"
+    },
+    {
+      "quantity": "2",
+      "unit": "szt",
+      "name": "jajka"
+    },
+    {
+      "quantity": "500",
+      "unit": "ml",
+      "name": "mleko"
+    },
+    {
+      "quantity": "625",
+      "unit": "g",
+      "name": "mąka pszennej"
+    }
+  ]
+},
+{
+  "url": "https://aniagotuje.pl/przepis/salatka-gyros",
+  "ingredients": [
+    {
+      "quantity": "100",
+      "unit": "g",
+      "name": "cebula"
+    },
+    {
+      "quantity": "2",
+      "unit": "szt",
+      "name": "czosnek"
+    },
+    {
+      "quantity": "60",
+      "unit": "ml",
+      "name": "jogurt naturalny"
+    },
+    {
+      "quantity": "60",
+      "unit": "ml",
+      "name": "ketchup"
+    },
+    {
+      "quantity": "400",
+      "unit": "g",
+      "name": "kukurydza"
+    },
+    {
+      "quantity": "800",
+      "unit": "g",
+      "name": "kurczak"
+    },
+    {
+      "quantity": "30",
+      "unit": "ml",
+      "name": "majonez"
+    },
+    {
+      "quantity": "150",
+      "unit": "g",
+      "name": "ogórek świeży"
+    },
+    {
+      "quantity": "150",
+      "unit": "g",
+      "name": "ogórki konserwowe"
+    },
+    {
+      "quantity": "30",
+      "unit": "ml",
+      "name": "olej roślinny"
+    },
+    {
+      "quantity": "300",
+      "unit": "g",
+      "name": "papryka"
+    },
+    {
+      "quantity": "150",
+      "unit": "g",
+      "name": "pomidory koktajlowe"
+    },
+    {
+      "quantity": "30",
+      "unit": "g",
+      "name": "przyprawa gyros"
+    },
+    {
+      "quantity": "150",
+      "unit": "g",
+      "name": "sałata lodowa lub pekińska"
+    },
+    {
+      "quantity": "45",
+      "unit": "ml",
+      "name": "sok z cytryny"
+    }
+  ]
+},
+{
+  "url": "https://aniagotuje.pl/przepis/salatka-makaronowa-z-tunczykiem",
+  "ingredients": [
+    {
+      "quantity": "50",
+      "unit": "g",
+      "name": "cebula"
+    },
+    {
+      "quantity": "70",
+      "unit": "g",
+      "name": "jogurt naturalny"
+    },
+    {
+      "quantity": "200",
+      "unit": "g",
+      "name": "kukurydza"
+    },
+    {
+      "quantity": "120",
+      "unit": "g",
+      "name": "majonez"
+    },
+    {
+      "quantity": "250",
+      "unit": "g",
+      "name": "makaron"
+    },
+    {
+      "quantity": "200",
+      "unit": "g",
+      "name": "mozzarella"
+    },
+    {
+      "quantity": "150",
+      "unit": "g",
+      "name": "ogórki kiszone"
+    },
+    {
+      "quantity": "150",
+      "unit": "g",
+      "name": "ogórki konserwowe"
+    },
+    {
+      "quantity": "200",
+      "unit": "g",
+      "name": "papryka czerwona"
+    },
+    {
+      "quantity": "1",
+      "unit": "szt",
+      "name": "papryka czerwona"
+    },
+    {
+      "quantity": "2.5",
+      "unit": "g",
+      "name": "pieprz"
+    },
+    {
+      "quantity": "2.5",
+      "unit": "g",
+      "name": "sól"
+    },
+    {
+      "quantity": "250",
+      "unit": "g",
+      "name": "tuńczyk"
+    },
+    {
+      "quantity": "70",
+      "unit": "g",
+      "name": "śmietana"
+    }
+  ]
+},
+{
+  "url": "https://aniagotuje.pl/przepis/sernik-na-zimno-z-twarogu",
+  "ingredients": [
+    {
+      "quantity": "60",
+      "unit": "g",
+      "name": "biszkoptów"
+    },
+    {
+      "quantity": "60",
+      "unit": "g",
+      "name": "cukru"
+    },
+    {
+      "quantity": "3",
+      "unit": "szt",
+      "name": "galaretki"
+    },
+    {
+      "quantity": "500",
+      "unit": "g",
+      "name": "truskawek"
+    },
+    {
+      "quantity": "800",
+      "unit": "g",
+      "name": "twarogu"
+    },
+    {
+      "quantity": "650",
+      "unit": "ml",
+      "name": "wrzątku"
+    },
+    {
+      "quantity": "200",
+      "unit": "ml",
+      "name": "śmietanki"
+    }
+  ]
+},
+{
+  "url": "https://aniagotuje.pl/przepis/sernik-z-blendera",
+  "ingredients": [
+    {
+      "quantity": "80",
+      "unit": "g",
+      "name": "biszkopty"
+    },
+    {
+      "quantity": "40",
+      "unit": "g",
+      "name": "budyń"
+    },
+    {
+      "quantity": "120",
+      "unit": "g",
+      "name": "cukier"
+    },
+    {
+      "quantity": "43",
+      "unit": "g",
+      "name": "cukier wanilinowy"
+    },
+    {
+      "quantity": "280",
+      "unit": "g",
+      "name": "jajka"
+    },
+    {
+      "quantity": "5",
+      "unit": "szt",
+      "name": "jajka"
+    },
+    {
+      "quantity": "50",
+      "unit": "g",
+      "name": "masło"
+    },
+    {
+      "quantity": "1000",
+      "unit": "g",
+      "name": "ser twarogowy"
+    }
+  ]
+},
+{
+  "url": "https://aniagotuje.pl/przepis/serowe-renifery",
+  "ingredients": [
+    {
+      "quantity": "1.67",
+      "unit": "g",
+      "name": "czarny pieprz"
+    },
+    {
+      "quantity": "8",
+      "unit": "szt",
+      "name": "krakersy"
+    },
+    {
+      "quantity": "8",
+      "unit": "szt",
+      "name": "mini talarki"
+    },
+    {
+      "quantity": "60",
+      "unit": "g",
+      "name": "orzechy włoskie"
+    },
+    {
+      "quantity": "8",
+      "unit": "szt",
+      "name": "porzeczki czerwone"
+    },
+    {
+      "quantity": "16",
+      "unit": "szt",
+      "name": "precelki słone"
+    },
+    {
+      "quantity": "300",
+      "unit": "g",
+      "name": "ser twarogowy"
+    },
+    {
+      "quantity": "45",
+      "unit": "g",
+      "name": "szczypiorek"
+    }
+  ]
+},
+{
+  "url": "https://aniagotuje.pl/przepis/szarlotka",
+  "ingredients": [
+    {
+      "quantity": "142.5",
+      "unit": "g",
+      "name": "cukier drobny"
+    },
+    {
+      "quantity": "5",
+      "unit": "g",
+      "name": "cynamon"
+    },
+    {
+      "quantity": "1500",
+      "unit": "g",
+      "name": "jabłka"
+    },
+    {
+      "quantity": "5.5",
+      "unit": "szt",
+      "name": "jabłka"
+    },
+    {
+      "quantity": "1",
+      "unit": "szt",
+      "name": "jajko"
+    },
+    {
+      "quantity": "400",
+      "unit": "g",
+      "name": "masło"
+    },
+    {
+      "quantity": "820",
+      "unit": "g",
+      "name": "mąka pszenna"
+    },
+    {
+      "quantity": "10",
+      "unit": "g",
+      "name": "proszek do pieczenia"
+    }
+  ]
+},
+{
+  "url": "https://aniagotuje.pl/przepis/tradycyjne-placki-ziemniaczane",
+  "ingredients": [
+    {
+      "quantity": "120",
+      "unit": "g",
+      "name": "cebula"
+    },
+    {
+      "quantity": "5",
+      "unit": "g",
+      "name": "cukier"
+    },
+    {
+      "quantity": "2",
+      "unit": "szt",
+      "name": "jajka"
+    },
+    {
+      "quantity": "50",
+      "unit": "g",
+      "name": "mąka pszennej"
+    },
+    {
+      "quantity": "5",
+      "unit": "g",
+      "name": "pieprzu"
+    },
+    {
+      "quantity": "5",
+      "unit": "g",
+      "name": "soli"
+    },
+    {
+      "quantity": "1000",
+      "unit": "g",
+      "name": "ziemniaki"
+    }
+  ]
+},
+{
+  "url": "https://aniagotuje.pl/przepis/zupa-krem-z-ciecierzycy",
+  "ingredients": [
+    {
+      "quantity": "800",
+      "unit": "ml",
+      "name": "bulion warzywny"
+    },
+    {
+      "quantity": "150",
+      "unit": "g",
+      "name": "cebula"
+    },
+    {
+      "quantity": "400",
+      "unit": "g",
+      "name": "ciecierzyca"
+    },
+    {
+      "quantity": "2.5",
+      "unit": "g",
+      "name": "kumin"
+    },
+    {
+      "quantity": "20",
+      "unit": "g",
+      "name": "masło"
+    },
+    {
+      "quantity": "2.5",
+      "unit": "g",
+      "name": "pieprz"
+    },
+    {
+      "quantity": "150",
+      "unit": "g",
+      "name": "por"
+    },
+    {
+      "quantity": "150",
+      "unit": "g",
+      "name": "ser mascarpone"
+    },
+    {
+      "quantity": "2.5",
+      "unit": "g",
+      "name": "sól"
+    },
+    {
+      "quantity": "400",
+      "unit": "g",
+      "name": "ziemniaki"
+    },
+    {
+      "quantity": "2",
+      "unit": "szt",
+      "name": "ziemniaki"
+    }
+  ]
+},
+{
+  "url": "https://aniagotuje.pl/przepis/ciasteczka-korzenne",
+  "ingredients": [
+    {
+      "quantity": "120",
+      "unit": "g",
+      "name": "cukier puder"
+    },
+    {
+      "quantity": "5",
+      "unit": "g",
+      "name": "kakao"
+    },
+    {
+      "quantity": "120",
+      "unit": "g",
+      "name": "masło"
+    },
+    {
+      "quantity": "220",
+      "unit": "g",
+      "name": "mąka pszenna tortowa"
+    },
+    {
+      "quantity": "60",
+      "unit": "ml",
+      "name": "śmietanka kremówka 30 %"
+    }
+  ]
+},
+{
+  "url": "https://aniagotuje.pl/przepis/ciasteczka-marcepanowe",
+  "ingredients": [
+    {
+      "quantity": "40",
+      "unit": "g",
+      "name": "budyń waniliowy bez cukru"
+    },
+    {
+      "quantity": "100",
+      "unit": "g",
+      "name": "cukier puder"
+    },
+    {
+      "quantity": "1",
+      "unit": "szt",
+      "name": "jajko"
+    },
+    {
+      "quantity": "100",
+      "unit": "g",
+      "name": "masa marcepanowa"
+    },
+    {
+      "quantity": "200",
+      "unit": "g",
+      "name": "masło"
+    },
+    {
+      "quantity": "320",
+      "unit": "g",
+      "name": "mąka pszenna tortowa"
+    },
+    {
+      "quantity": "75",
+      "unit": "g",
+      "name": "płatki migdałowe"
+    }
+  ]
+},
+{
+  "url": "https://aniagotuje.pl/przepis/ciasteczka-swiateczne",
+  "ingredients": [
+    {
+      "quantity": "40",
+      "unit": "g",
+      "name": "budyń waniliowy bez cukru"
+    },
+    {
+      "quantity": "100",
+      "unit": "g",
+      "name": "cukier puder"
+    },
+    {
+      "quantity": "150",
+      "unit": "g",
+      "name": "dżem truskawkowy"
+    },
+    {
+      "quantity": "1",
+      "unit": "szt",
+      "name": "jajko"
+    },
+    {
+      "quantity": "150",
+      "unit": "g",
+      "name": "marmolada"
+    },
+    {
+      "quantity": "200",
+      "unit": "g",
+      "name": "masło"
+    },
+    {
+      "quantity": "320",
+      "unit": "g",
+      "name": "mąka pszenna tortowa"
+    }
+  ]
+},
+{
+  "url": "https://aniagotuje.pl/przepis/ciastka-maslane-migdalowe",
+  "ingredients": [
+    {
+      "quantity": "100",
+      "unit": "g",
+      "name": "cukru"
+    },
+    {
+      "quantity": "30",
+      "unit": "ml",
+      "name": "kwaśnej śmietany 18%"
+    },
+    {
+      "quantity": "150",
+      "unit": "g",
+      "name": "masła"
+    },
+    {
+      "quantity": "100",
+      "unit": "g",
+      "name": "migdałów blanszowanych"
+    },
+    {
+      "quantity": "200",
+      "unit": "g",
+      "name": "mąki pszennej"
+    },
+    {
+      "quantity": "30",
+      "unit": "g",
+      "name": "mąki ziemniaczanej"
+    },
+    {
+      "quantity": "5",
+      "unit": "g",
+      "name": "proszku do pieczenia"
+    },
+    {
+      "quantity": "1",
+      "unit": "szt",
+      "name": "żółtka jajka"
+    }
+  ]
+},
+{
+  "url": "https://aniagotuje.pl/przepis/kruche-ciasteczka-maslane",
+  "ingredients": [
+    {
+      "quantity": "80",
+      "unit": "g",
+      "name": "cukier puder"
+    },
+    {
+      "quantity": "200",
+      "unit": "g",
+      "name": "masło"
+    },
+    {
+      "quantity": "200",
+      "unit": "g",
+      "name": "mąka pszenna tortowa"
+    },
+    {
+      "quantity": "80",
+      "unit": "g",
+      "name": "mąka ziemniaczana"
+    }
+  ]
+},
+{
+  "url": "https://aniagotuje.pl/przepis/maslano-serowe-ciasteczka-z-marmolada",
+  "ingredients": [
+    {
+      "quantity": "50",
+      "unit": "g",
+      "name": "cukier"
+    },
+    {
+      "quantity": "200",
+      "unit": "g",
+      "name": "masło"
+    },
+    {
+      "quantity": "200",
+      "unit": "g",
+      "name": "mąka pszennej"
+    },
+    {
+      "quantity": "200",
+      "unit": "g",
+      "name": "ser mielony"
+    }
+  ]
+},
+{
+  "url": "https://aniagotuje.pl/przepis/paluchy-wiedzmy",
+  "ingredients": [
+    {
+      "quantity": "260",
+      "unit": "g",
+      "name": "cukier puder"
+    },
+    {
+      "quantity": "1",
+      "unit": "szt",
+      "name": "jajko"
+    },
+    {
+      "quantity": "400",
+      "unit": "g",
+      "name": "masło"
+    },
+    {
+      "quantity": "45",
+      "unit": "g",
+      "name": "migdały"
+    },
+    {
+      "quantity": "682.5",
+      "unit": "g",
+      "name": "mąka pszenna"
+    },
+    {
+      "quantity": "5",
+      "unit": "g",
+      "name": "proszek do pieczenia"
+    },
+    {
+      "quantity": "30",
+      "unit": "g",
+      "name": "skrobia/mąka ziemniaczana"
+    }
+  ]
+},
+{
+  "url": "https://aniagotuje.pl/przepis/pierniczki-nadziewane",
+  "ingredients": [
+    {
+      "quantity": "40",
+      "unit": "g",
+      "name": "cukier puder"
+    },
+    {
+      "quantity": "1",
+      "unit": "szt",
+      "name": "jajko"
+    },
+    {
+      "quantity": "5",
+      "unit": "g",
+      "name": "kakao"
+    },
+    {
+      "quantity": "80",
+      "unit": "g",
+      "name": "marmolada"
+    },
+    {
+      "quantity": "50",
+      "unit": "g",
+      "name": "masło"
+    },
+    {
+      "quantity": "160",
+      "unit": "g",
+      "name": "miód"
+    },
+    {
+      "quantity": "320",
+      "unit": "g",
+      "name": "mąka pszenna tortowa"
+    },
+    {
+      "quantity": "80",
+      "unit": "g",
+      "name": "powidła śliwkowe"
+    },
+    {
+      "quantity": "20",
+      "unit": "g",
+      "name": "przyprawa do piernika"
+    },
+    {
+      "quantity": "5",
+      "unit": "g",
+      "name": "soda oczyszczona"
+    }
+  ]
+},
+{
+  "url": "https://aniagotuje.pl/przepis/piernikowe-bombki",
+  "ingredients": [
+    {
+      "quantity": "90",
+      "unit": "g",
+      "name": "cukier puder"
+    },
+    {
+      "quantity": "60",
+      "unit": "g",
+      "name": "jajko"
+    },
+    {
+      "quantity": "1",
+      "unit": "szt",
+      "name": "jajko"
+    },
+    {
+      "quantity": "25",
+      "unit": "g",
+      "name": "kakao"
+    },
+    {
+      "quantity": "220",
+      "unit": "g",
+      "name": "masło"
+    },
+    {
+      "quantity": "150",
+      "unit": "g",
+      "name": "miód"
+    },
+    {
+      "quantity": "1230",
+      "unit": "g",
+      "name": "mąka pszenna tortowa"
+    },
+    {
+      "quantity": "50",
+      "unit": "g",
+      "name": "przyprawa do piernika"
+    },
+    {
+      "quantity": "2.5",
+      "unit": "g",
+      "name": "soda oczyszczona"
+    }
+  ]
+},
+{
+  "url": "https://aniagotuje.pl/przepis/zupa-czosnkowa",
+  "ingredients": [
+    {
+      "quantity": "1000",
+      "unit": "ml",
+      "name": "bulion drobiowy"
+    },
+    {
+      "quantity": "1000",
+      "unit": "ml",
+      "name": "bulion warzywny"
+    },
+    {
+      "quantity": "240",
+      "unit": "g",
+      "name": "cebula"
+    },
+    {
+      "quantity": "110",
+      "unit": "g",
+      "name": "czosnek"
+    },
+    {
+      "quantity": "30",
+      "unit": "g",
+      "name": "masło"
+    },
+    {
+      "quantity": "30",
+      "unit": "ml",
+      "name": "oliwa"
+    },
+    {
+      "quantity": "250",
+      "unit": "g",
+      "name": "ser mascarpone"
+    },
+    {
+      "quantity": "1000",
+      "unit": "g",
+      "name": "ziemniaki"
+    }
+  ]
+},
+{
+  "url": "https://aniagotuje.pl/przepis/zupa-dyniowa-z-curry",
+  "ingredients": [
+    {
+      "quantity": "500",
+      "unit": "ml",
+      "name": "bulion"
+    },
+    {
+      "quantity": "3",
+      "unit": "szt",
+      "name": "czosnek"
+    },
+    {
+      "quantity": "800",
+      "unit": "g",
+      "name": "dyni hokkaido"
+    },
+    {
+      "quantity": "400",
+      "unit": "g",
+      "name": "mleczko"
+    },
+    {
+      "quantity": "45",
+      "unit": "ml",
+      "name": "olej"
+    },
+    {
+      "quantity": "1.25",
+      "unit": "g",
+      "name": "pieprz"
+    },
+    {
+      "quantity": "10",
+      "unit": "g",
+      "name": "przyprawa curry"
+    },
+    {
+      "quantity": "2.5",
+      "unit": "g",
+      "name": "sól"
+    }
+  ]
+},
+{
+  "url": "https://aniagotuje.pl/przepis/zupa-dyniowa-z-maslem-orzechowym",
+  "ingredients": [
+    {
+      "quantity": "340",
+      "unit": "g",
+      "name": "batat"
+    },
+    {
+      "quantity": "800",
+      "unit": "ml",
+      "name": "bulion drobiowy"
+    },
+    {
+      "quantity": "800",
+      "unit": "ml",
+      "name": "bulion warzywny"
+    },
+    {
+      "quantity": "170",
+      "unit": "g",
+      "name": "cebulka"
+    },
+    {
+      "quantity": "3",
+      "unit": "szt",
+      "name": "czosnek"
+    },
+    {
+      "quantity": "550",
+      "unit": "g",
+      "name": "dynia"
+    },
+    {
+      "quantity": "30",
+      "unit": "g",
+      "name": "masło"
+    },
+    {
+      "quantity": "70",
+      "unit": "g",
+      "name": "masło orzechowe"
+    }
+  ]
+},
+{
+  "url": "https://aniagotuje.pl/przepis/zupa-krem-pieczarkowa-bez-bulionu",
+  "ingredients": [
+    {
+      "quantity": "200",
+      "unit": "g",
+      "name": "kasza jaglana"
+    },
+    {
+      "quantity": "30",
+      "unit": "g",
+      "name": "masło"
+    },
+    {
+      "quantity": "200",
+      "unit": "ml",
+      "name": "mleko"
+    },
+    {
+      "quantity": "500",
+      "unit": "g",
+      "name": "pieczarki"
+    },
+    {
+      "quantity": "2.5",
+      "unit": "g",
+      "name": "pieprz"
+    },
+    {
+      "quantity": "5",
+      "unit": "g",
+      "name": "sól"
+    },
+    {
+      "quantity": "200",
+      "unit": "ml",
+      "name": "woda"
+    }
+  ]
+},
+{
+  "url": "https://aniagotuje.pl/przepis/zupa-krem-z-groszku",
+  "ingredients": [
+    {
+      "quantity": "1000",
+      "unit": "ml",
+      "name": "bulion warzywny"
+    },
+    {
+      "quantity": "120",
+      "unit": "g",
+      "name": "cebula"
+    },
+    {
+      "quantity": "1",
+      "unit": "szt",
+      "name": "cebula"
+    },
+    {
+      "quantity": "2",
+      "unit": "szt",
+      "name": "czosnek"
+    },
+    {
+      "quantity": "400",
+      "unit": "g",
+      "name": "groszek"
+    },
+    {
+      "quantity": "15",
+      "unit": "g",
+      "name": "lubczyk"
+    },
+    {
+      "quantity": "30",
+      "unit": "g",
+      "name": "masło klarowane"
+    },
+    {
+      "quantity": "45",
+      "unit": "g",
+      "name": "ser mascarpone"
+    },
+    {
+      "quantity": "45",
+      "unit": "ml",
+      "name": "sok z cytryny"
+    },
+    {
+      "quantity": "2.5",
+      "unit": "g",
+      "name": "sól"
+    },
+    {
+      "quantity": "45",
+      "unit": "ml",
+      "name": "śmietanka"
+    }
+  ]
+},
+{
+  "url": "https://aniagotuje.pl/przepis/zupa-krem-z-pomidorow",
+  "ingredients": [
+    {
+      "quantity": "1",
+      "unit": "szt",
+      "name": "cebula"
+    },
+    {
+      "quantity": "5",
+      "unit": "g",
+      "name": "cukier"
+    },
+    {
+      "quantity": "4",
+      "unit": "szt",
+      "name": "czosnek"
+    },
+    {
+      "quantity": "60",
+      "unit": "ml",
+      "name": "oliwa"
+    },
+    {
+      "quantity": "1.25",
+      "unit": "g",
+      "name": "pieprz"
+    },
+    {
+      "quantity": "700",
+      "unit": "g",
+      "name": "pomidory"
+    },
+    {
+      "quantity": "2.5",
+      "unit": "g",
+      "name": "sól"
+    },
+    {
+      "quantity": "500",
+      "unit": "ml",
+      "name": "woda"
+    }
+  ]
+},
+{
+  "url": "https://aniagotuje.pl/przepis/zupa-porowa",
+  "ingredients": [
+    {
+      "quantity": "750",
+      "unit": "ml",
+      "name": "bulion lub woda"
+    },
+    {
+      "quantity": "5",
+      "unit": "szt",
+      "name": "czosnek"
+    },
+    {
+      "quantity": "100",
+      "unit": "g",
+      "name": "marchewka"
+    },
+    {
+      "quantity": "30",
+      "unit": "g",
+      "name": "masło"
+    },
+    {
+      "quantity": "83.33",
+      "unit": "ml",
+      "name": "mleko"
+    },
+    {
+      "quantity": "30",
+      "unit": "ml",
+      "name": "oliwa"
+    },
+    {
+      "quantity": "200",
+      "unit": "g",
+      "name": "pietruszka"
+    },
+    {
+      "quantity": "600",
+      "unit": "g",
+      "name": "por"
+    },
+    {
+      "quantity": "100",
+      "unit": "g",
+      "name": "seler korzeniowy"
+    },
+    {
+      "quantity": "15",
+      "unit": "ml",
+      "name": "sok z cytryny"
+    },
+    {
+      "quantity": "350",
+      "unit": "g",
+      "name": "ziemniaki"
+    }
+  ]
+},
+{
+  "url": "https://aniagotuje.pl/przepis/zupa-z-ciecierzycy",
+  "ingredients": [
+    {
+      "quantity": "150",
+      "unit": "g",
+      "name": "cebula"
+    },
+    {
+      "quantity": "1",
+      "unit": "szt",
+      "name": "cebula"
+    },
+    {
+      "quantity": "400",
+      "unit": "g",
+      "name": "ciecierzycy"
+    },
+    {
+      "quantity": "280",
+      "unit": "g",
+      "name": "korzeń pietruszki"
+    },
+    {
+      "quantity": "80",
+      "unit": "g",
+      "name": "korzeń selera"
+    },
+    {
+      "quantity": "1",
+      "unit": "szt",
+      "name": "lister laurowy"
+    },
+    {
+      "quantity": "2.5",
+      "unit": "g",
+      "name": "majeranek"
+    },
+    {
+      "quantity": "400",
+      "unit": "g",
+      "name": "marchewki"
+    },
+    {
+      "quantity": "30",
+      "unit": "g",
+      "name": "masło klarowane"
+    },
+    {
+      "quantity": "30",
+      "unit": "ml",
+      "name": "olej"
+    },
+    {
+      "quantity": "5",
+      "unit": "g",
+      "name": "papryka słodka"
+    },
+    {
+      "quantity": "2.5",
+      "unit": "g",
+      "name": "pieprz"
+    },
+    {
+      "quantity": "400",
+      "unit": "g",
+      "name": "pomidory"
+    },
+    {
+      "quantity": "5",
+      "unit": "g",
+      "name": "sól"
+    },
+    {
+      "quantity": "2000",
+      "unit": "ml",
+      "name": "wody"
+    },
+    {
+      "quantity": "2",
+      "unit": "szt",
+      "name": "ziarno ziela angielskiego"
+    },
+    {
+      "quantity": "900",
+      "unit": "g",
+      "name": "ziemniaki"
+    }
+  ]
+},
+{
+  "url": "https://aniagotuje.pl/przepis/omlet-z-szynka",
+  "ingredients": [
+    {
+      "quantity": "2",
+      "unit": "szt",
+      "name": "jajka"
+    },
+    {
+      "quantity": "5",
+      "unit": "g",
+      "name": "masło klarowane"
+    },
+    {
+      "quantity": "15",
+      "unit": "ml",
+      "name": "mleko krowie lub roślinne"
+    },
+    {
+      "quantity": "15",
+      "unit": "g",
+      "name": "mąka pszennej"
+    },
+    {
+      "quantity": "10",
+      "unit": "g",
+      "name": "ser"
+    },
+    {
+      "quantity": "30",
+      "unit": "g",
+      "name": "szynka"
+    }
+  ]
+},
+{
+  "url": "https://aniagotuje.pl/przepis/omlet-z-warzywami",
+  "ingredients": [
+    {
+      "quantity": "80",
+      "unit": "g",
+      "name": "cebula"
+    },
+    {
+      "quantity": "1",
+      "unit": "szt",
+      "name": "cebula"
+    },
+    {
+      "quantity": "3",
+      "unit": "szt",
+      "name": "jajka"
+    },
+    {
+      "quantity": "30",
+      "unit": "g",
+      "name": "masła klarowanego"
+    },
+    {
+      "quantity": "40",
+      "unit": "g",
+      "name": "mąka pszennej"
+    },
+    {
+      "quantity": "150",
+      "unit": "g",
+      "name": "papryka"
+    },
+    {
+      "quantity": "1",
+      "unit": "szt",
+      "name": "papryka"
+    }
+  ]
+},
+{
+  "url": "https://aniagotuje.pl/przepis/owsianka-na-mleku",
+  "ingredients": [
+    {
+      "quantity": "5",
+      "unit": "g",
+      "name": "cukier"
+    },
+    {
+      "quantity": "5",
+      "unit": "g",
+      "name": "miód"
+    },
+    {
+      "quantity": "735",
+      "unit": "ml",
+      "name": "mleko"
+    },
+    {
+      "quantity": "85",
+      "unit": "g",
+      "name": "płatki owsiane"
+    }
+  ]
+},
+{
+  "url": "https://aniagotuje.pl/przepis/placki-z-cukinii-i-marchewki",
+  "ingredients": [
+    {
+      "quantity": "300",
+      "unit": "g",
+      "name": "cukinia"
+    },
+    {
+      "quantity": "120",
+      "unit": "g",
+      "name": "jajka"
+    },
+    {
+      "quantity": "2",
+      "unit": "szt",
+      "name": "jajka"
+    },
+    {
+      "quantity": "140",
+      "unit": "g",
+      "name": "marchew"
+    },
+    {
+      "quantity": "100",
+      "unit": "g",
+      "name": "mąka pszenna"
+    },
+    {
+      "quantity": "20",
+      "unit": "ml",
+      "name": "olej"
+    },
+    {
+      "quantity": "1.67",
+      "unit": "ml",
+      "name": "pieprz"
+    }
+  ]
+},
+{
+  "url": "https://aniagotuje.pl/przepis/placki-z-jablkami-i-twarogiem",
+  "ingredients": [
+    {
+      "quantity": "16",
+      "unit": "g",
+      "name": "cukier wanilinowy"
+    },
+    {
+      "quantity": "240",
+      "unit": "g",
+      "name": "jabłko"
+    },
+    {
+      "quantity": "1",
+      "unit": "szt",
+      "name": "jabłko"
+    },
+    {
+      "quantity": "3",
+      "unit": "szt",
+      "name": "jajko"
+    },
+    {
+      "quantity": "540",
+      "unit": "ml",
+      "name": "jogurt naturalny"
+    },
+    {
+      "quantity": "605",
+      "unit": "g",
+      "name": "mąka pszenna"
+    },
+    {
+      "quantity": "2.5",
+      "unit": "g",
+      "name": "proszek do pieczenia"
+    },
+    {
+      "quantity": "2.5",
+      "unit": "g",
+      "name": "soda oczyszczona"
+    },
+    {
+      "quantity": "120",
+      "unit": "g",
+      "name": "twaróg"
+    }
+  ]
+},
+{
+  "url": "https://aniagotuje.pl/przepis/placki-z-jagodami",
+  "ingredients": [
+    {
+      "quantity": "15",
+      "unit": "g",
+      "name": "cukru"
+    },
+    {
+      "quantity": "400",
+      "unit": "g",
+      "name": "jagód"
+    },
+    {
+      "quantity": "3",
+      "unit": "szt",
+      "name": "jajka"
+    },
+    {
+      "quantity": "540",
+      "unit": "ml",
+      "name": "jogurtu naturalnego"
+    },
+    {
+      "quantity": "625",
+      "unit": "g",
+      "name": "mąki pszennej"
+    },
+    {
+      "quantity": "75",
+      "unit": "ml",
+      "name": "oleju"
+    },
+    {
+      "quantity": "10",
+      "unit": "g",
+      "name": "proszku do pieczenia"
+    }
+  ]
+},
+{
+  "url": "https://aniagotuje.pl/przepis/placuszki-z-dynia",
+  "ingredients": [
+    {
+      "quantity": "40",
+      "unit": "g",
+      "name": "budyń waniliowy lub śmietankowy bez cukru"
+    },
+    {
+      "quantity": "43",
+      "unit": "g",
+      "name": "cukier wanilinowy"
+    },
+    {
+      "quantity": "50",
+      "unit": "g",
+      "name": "cukier zwykły"
+    },
+    {
+      "quantity": "220",
+      "unit": "g",
+      "name": "dynia"
+    },
+    {
+      "quantity": "170",
+      "unit": "g",
+      "name": "jajka"
+    },
+    {
+      "quantity": "3",
+      "unit": "szt",
+      "name": "jajka"
+    },
+    {
+      "quantity": "150",
+      "unit": "ml",
+      "name": "jogurt naturalny"
+    },
+    {
+      "quantity": "30",
+      "unit": "g",
+      "name": "masło klarowane"
+    },
+    {
+      "quantity": "200",
+      "unit": "g",
+      "name": "mąka pszenna uniwersalna"
+    },
+    {
+      "quantity": "30",
+      "unit": "ml",
+      "name": "olej"
+    },
+    {
+      "quantity": "5",
+      "unit": "g",
+      "name": "proszek do pieczenia"
+    },
+    {
+      "quantity": "5",
+      "unit": "g",
+      "name": "soda oczyszczona"
+    }
+  ]
+},
+{
+  "url": "https://aniagotuje.pl/przepis/racuchy-na-jogurcie",
+  "ingredients": [
+    {
+      "quantity": "60",
+      "unit": "g",
+      "name": "cukier"
+    },
+    {
+      "quantity": "2",
+      "unit": "szt",
+      "name": "jabłka"
+    },
+    {
+      "quantity": "3",
+      "unit": "szt",
+      "name": "jajka"
+    },
+    {
+      "quantity": "400",
+      "unit": "g",
+      "name": "jogurt naturalny"
+    },
+    {
+      "quantity": "80",
+      "unit": "g",
+      "name": "masło"
+    },
+    {
+      "quantity": "320",
+      "unit": "g",
+      "name": "mąka pszenna uniwersalna"
+    },
+    {
+      "quantity": "5",
+      "unit": "g",
+      "name": "proszek do pieczenia"
+    },
+    {
+      "quantity": "5",
+      "unit": "g",
+      "name": "soda"
+    }
+  ]
+},
+{
+  "url": "https://aniagotuje.pl/przepis/ryz-z-truskawkami",
+  "ingredients": [
+    {
+      "quantity": "30",
+      "unit": "g",
+      "name": "cukru lub miodu"
+    },
+    {
+      "quantity": "16",
+      "unit": "g",
+      "name": "cukru wanilinowego"
+    },
+    {
+      "quantity": "35",
+      "unit": "g",
+      "name": "masła"
+    },
+    {
+      "quantity": "1000",
+      "unit": "ml",
+      "name": "mleka"
+    },
+    {
+      "quantity": "255",
+      "unit": "g",
+      "name": "ryżu"
+    },
+    {
+      "quantity": "500",
+      "unit": "g",
+      "name": "truskawek"
+    },
+    {
+      "quantity": "1000",
+      "unit": "ml",
+      "name": "wody"
+    }
+  ]
+},
+{
+  "url": "https://aniagotuje.pl/przepis/zupa-mleczna",
+  "ingredients": [
+    {
+      "quantity": "5",
+      "unit": "ml",
+      "name": "cukru z wanilią"
+    },
+    {
+      "quantity": "2",
+      "unit": "szt",
+      "name": "jajko"
+    },
+    {
+      "quantity": "750",
+      "unit": "ml",
+      "name": "mleko"
+    },
+    {
+      "quantity": "50",
+      "unit": "g",
+      "name": "mąka pszennej"
+    }
+  ]
+},
+{
+  "url": "https://aniagotuje.pl/przepis/kurczak-po-chinsku",
+  "ingredients": [
+    {
+      "quantity": "2",
+      "unit": "szt",
+      "name": "cebula"
+    },
+    {
+      "quantity": "1.67",
+      "unit": "g",
+      "name": "chili"
+    },
+    {
+      "quantity": "10",
+      "unit": "g",
+      "name": "cukier"
+    },
+    {
+      "quantity": "15",
+      "unit": "g",
+      "name": "czosnek"
+    },
+    {
+      "quantity": "30",
+      "unit": "g",
+      "name": "imbir"
+    },
+    {
+      "quantity": "150",
+      "unit": "g",
+      "name": "marchew"
+    },
+    {
+      "quantity": "30",
+      "unit": "ml",
+      "name": "ocet ryżowy"
+    },
+    {
+      "quantity": "30",
+      "unit": "ml",
+      "name": "olej"
+    },
+    {
+      "quantity": "30",
+      "unit": "ml",
+      "name": "olej sezamowy"
+    },
+    {
+      "quantity": "30",
+      "unit": "ml",
+      "name": "oliwa"
+    },
+    {
+      "quantity": "110",
+      "unit": "g",
+      "name": "papryka"
+    },
+    {
+      "quantity": "600",
+      "unit": "g",
+      "name": "pierś z kurczaka"
+    },
+    {
+      "quantity": "100",
+      "unit": "g",
+      "name": "pędy bambusa"
+    },
+    {
+      "quantity": "150",
+      "unit": "g",
+      "name": "ryż"
+    },
+    {
+      "quantity": "30",
+      "unit": "g",
+      "name": "skrobia ziemniaczana"
+    },
+    {
+      "quantity": "60",
+      "unit": "ml",
+      "name": "sos sojowy"
+    },
+    {
+      "quantity": "2.5",
+      "unit": "g",
+      "name": "sól"
+    },
+    {
+      "quantity": "30",
+      "unit": "ml",
+      "name": "win ryżowy"
+    },
+    {
+      "quantity": "20",
+      "unit": "ml",
+      "name": "woda"
+    }
+  ]
+},
+{
+  "url": "https://aniagotuje.pl/przepis/mini-paczki-z-serkow-homogenizowanych",
+  "ingredients": [
+    {
+      "quantity": "2",
+      "unit": "szt",
+      "name": "jajka"
+    },
+    {
+      "quantity": "625",
+      "unit": "g",
+      "name": "mąka pszennej"
+    },
+    {
+      "quantity": "10",
+      "unit": "g",
+      "name": "proszek do pieczenia"
+    },
+    {
+      "quantity": "570",
+      "unit": "g",
+      "name": "serka homogenizowanego waniliowego"
+    }
+  ]
+},
+{
+  "url": "https://aniagotuje.pl/przepis/sernik-baskijski",
+  "ingredients": [
+    {
+      "quantity": "500",
+      "unit": "g",
+      "name": "cukier"
+    },
+    {
+      "quantity": "16",
+      "unit": "g",
+      "name": "cukier wanilinowy"
+    },
+    {
+      "quantity": "400",
+      "unit": "g",
+      "name": "jajka"
+    },
+    {
+      "quantity": "1000",
+      "unit": "g",
+      "name": "serka"
+    },
+    {
+      "quantity": "9",
+      "unit": "g",
+      "name": "sól"
+    },
+    {
+      "quantity": "500",
+      "unit": "ml",
+      "name": "śmietanka kremówka"
+    }
+  ]
+},
+{
+  "url": "https://aniagotuje.pl/przepis/sos-beszamelowy",
+  "ingredients": [
+    {
+      "quantity": "100",
+      "unit": "g",
+      "name": "masło"
+    },
+    {
+      "quantity": "500",
+      "unit": "ml",
+      "name": "mleko"
+    },
+    {
+      "quantity": "45",
+      "unit": "g",
+      "name": "mąka pszenenna"
+    },
+    {
+      "quantity": "1.25",
+      "unit": "g",
+      "name": "pieprz"
+    },
+    {
+      "quantity": "1.25",
+      "unit": "g",
+      "name": "sól"
+    }
+  ]
+},
+{
+  "url": "https://aniagotuje.pl/przepis/golabki-bez-zawijania",
+  "ingredients": [
+    {
+      "quantity": "1500",
+      "unit": "ml",
+      "name": "bulion"
+    },
+    {
+      "quantity": "250",
+      "unit": "g",
+      "name": "cebula"
+    },
+    {
+      "quantity": "2",
+      "unit": "szt",
+      "name": "cebula"
+    },
+    {
+      "quantity": "1",
+      "unit": "szt",
+      "name": "jajko"
+    },
+    {
+      "quantity": "800",
+      "unit": "g",
+      "name": "kapusta"
+    },
+    {
+      "quantity": "30",
+      "unit": "g",
+      "name": "koncentrat pomidorowy"
+    },
+    {
+      "quantity": "15",
+      "unit": "g",
+      "name": "mąka pszenenna"
+    },
+    {
+      "quantity": "45",
+      "unit": "ml",
+      "name": "olej"
+    },
+    {
+      "quantity": "5",
+      "unit": "g",
+      "name": "pieprz"
+    },
+    {
+      "quantity": "125",
+      "unit": "g",
+      "name": "przecier pomidorowy"
+    },
+    {
+      "quantity": "225",
+      "unit": "g",
+      "name": "ryż"
+    },
+    {
+      "quantity": "10",
+      "unit": "g",
+      "name": "sól"
+    },
+    {
+      "quantity": "800",
+      "unit": "g",
+      "name": "łopatka wieprzowa"
+    }
+  ]
+},
+{
+  "url": "https://aniagotuje.pl/przepis/kartacze",
+  "ingredients": [
+    {
+      "quantity": "200",
+      "unit": "g",
+      "name": "cebula"
+    },
+    {
+      "quantity": "2",
+      "unit": "szt",
+      "name": "cebula"
+    },
+    {
+      "quantity": "5",
+      "unit": "g",
+      "name": "majeranek"
+    },
+    {
+      "quantity": "30",
+      "unit": "g",
+      "name": "mąka"
+    },
+    {
+      "quantity": "2.5",
+      "unit": "g",
+      "name": "pieprz"
+    },
+    {
+      "quantity": "5",
+      "unit": "g",
+      "name": "sól"
+    },
+    {
+      "quantity": "3000",
+      "unit": "g",
+      "name": "ziemniaki"
+    },
+    {
+      "quantity": "500",
+      "unit": "g",
+      "name": "łopatka wieprzowa"
+    }
+  ]
+},
+{
+  "url": "https://aniagotuje.pl/przepis/kofta",
+  "ingredients": [
+    {
+      "quantity": "1.67",
+      "unit": "g",
+      "name": "cynamon"
+    },
+    {
+      "quantity": "4",
+      "unit": "szt",
+      "name": "czosnek"
+    },
+    {
+      "quantity": "5",
+      "unit": "g",
+      "name": "kolendra"
+    },
+    {
+      "quantity": "1.67",
+      "unit": "g",
+      "name": "kumin"
+    },
+    {
+      "quantity": "600",
+      "unit": "g",
+      "name": "mięso mielone"
+    },
+    {
+      "quantity": "15",
+      "unit": "ml",
+      "name": "olej"
+    },
+    {
+      "quantity": "2.5",
+      "unit": "g",
+      "name": "papryka ostra"
+    },
+    {
+      "quantity": "5",
+      "unit": "g",
+      "name": "papryka słodka"
+    },
+    {
+      "quantity": "2.5",
+      "unit": "g",
+      "name": "pieprz"
+    },
+    {
+      "quantity": "5",
+      "unit": "g",
+      "name": "sól"
+    }
+  ]
+},
+{
+  "url": "https://aniagotuje.pl/przepis/kotlety-jajeczne",
+  "ingredients": [
+    {
+      "quantity": "30",
+      "unit": "g",
+      "name": "bułka tarta"
+    },
+    {
+      "quantity": "7",
+      "unit": "szt",
+      "name": "jajko"
+    },
+    {
+      "quantity": "15",
+      "unit": "g",
+      "name": "koper"
+    },
+    {
+      "quantity": "2.5",
+      "unit": "g",
+      "name": "pieprz"
+    },
+    {
+      "quantity": "2.5",
+      "unit": "g",
+      "name": "sól"
+    }
+  ]
+},
+{
+  "url": "https://aniagotuje.pl/przepis/kotlety-z-kalafiora",
+  "ingredients": [
+    {
+      "quantity": "45",
+      "unit": "g",
+      "name": "bułka tarta"
+    },
+    {
+      "quantity": "1",
+      "unit": "szt",
+      "name": "cebulka"
+    },
+    {
+      "quantity": "5",
+      "unit": "g",
+      "name": "cukier"
+    },
+    {
+      "quantity": "2",
+      "unit": "szt",
+      "name": "czosnek"
+    },
+    {
+      "quantity": "2",
+      "unit": "szt",
+      "name": "jajka"
+    },
+    {
+      "quantity": "1200",
+      "unit": "g",
+      "name": "kalafior"
+    },
+    {
+      "quantity": "30",
+      "unit": "g",
+      "name": "mąka pszenenna"
+    },
+    {
+      "quantity": "1.67",
+      "unit": "g",
+      "name": "pieprz"
+    },
+    {
+      "quantity": "5",
+      "unit": "g",
+      "name": "sól"
+    }
+  ]
+},
+{
+  "url": "https://aniagotuje.pl/przepis/kotlety-ziemniaczane",
+  "ingredients": [
+    {
+      "quantity": "75",
+      "unit": "ml",
+      "name": "bułka tarta"
+    },
+    {
+      "quantity": "200",
+      "unit": "g",
+      "name": "cebula"
+    },
+    {
+      "quantity": "1",
+      "unit": "szt",
+      "name": "cebula"
+    },
+    {
+      "quantity": "1",
+      "unit": "szt",
+      "name": "jajko"
+    },
+    {
+      "quantity": "30",
+      "unit": "g",
+      "name": "masło klarowane"
+    },
+    {
+      "quantity": "15",
+      "unit": "g",
+      "name": "mieszanka ziół włoskich"
+    },
+    {
+      "quantity": "45",
+      "unit": "g",
+      "name": "mąka pszenna"
+    },
+    {
+      "quantity": "45",
+      "unit": "ml",
+      "name": "olej"
+    },
+    {
+      "quantity": "2.5",
+      "unit": "g",
+      "name": "sól"
+    },
+    {
+      "quantity": "500",
+      "unit": "g",
+      "name": "ziemniaki"
+    }
+  ]
+},
+{
+  "url": "https://aniagotuje.pl/przepis/pasztet-z-dzika",
+  "ingredients": [
+    {
+      "quantity": "83.33",
+      "unit": "g",
+      "name": "bułka tarta"
+    },
+    {
+      "quantity": "200",
+      "unit": "g",
+      "name": "cebula"
+    },
+    {
+      "quantity": "2",
+      "unit": "szt",
+      "name": "cebula"
+    },
+    {
+      "quantity": "5",
+      "unit": "szt",
+      "name": "czosnek"
+    },
+    {
+      "quantity": "2",
+      "unit": "szt",
+      "name": "jajko"
+    },
+    {
+      "quantity": "2",
+      "unit": "szt",
+      "name": "jałowiec"
+    },
+    {
+      "quantity": "100",
+      "unit": "g",
+      "name": "korzeń pietruszki"
+    },
+    {
+      "quantity": "100",
+      "unit": "g",
+      "name": "korzeń selera"
+    },
+    {
+      "quantity": "3",
+      "unit": "szt",
+      "name": "liść laurowy"
+    },
+    {
+      "quantity": "10",
+      "unit": "g",
+      "name": "lubczyk"
+    },
+    {
+      "quantity": "5",
+      "unit": "g",
+      "name": "majeranek"
+    },
+    {
+      "quantity": "250",
+      "unit": "g",
+      "name": "marchewka"
+    },
+    {
+      "quantity": "500",
+      "unit": "g",
+      "name": "mięso z dzika"
+    },
+    {
+      "quantity": "2.5",
+      "unit": "g",
+      "name": "pieprz"
+    },
+    {
+      "quantity": "5",
+      "unit": "g",
+      "name": "rozmaryn"
+    },
+    {
+      "quantity": "10",
+      "unit": "g",
+      "name": "sól"
+    },
+    {
+      "quantity": "1000",
+      "unit": "ml",
+      "name": "woda"
+    },
+    {
+      "quantity": "400",
+      "unit": "g",
+      "name": "wątróbka drobiowa"
+    },
+    {
+      "quantity": "3",
+      "unit": "szt",
+      "name": "ziele angielskie"
+    },
+    {
+      "quantity": "200",
+      "unit": "g",
+      "name": "łodygi selera naciowego"
+    },
+    {
+      "quantity": "4",
+      "unit": "szt",
+      "name": "łodygi selera naciowego"
+    },
+    {
+      "quantity": "50",
+      "unit": "g",
+      "name": "żurawina"
+    }
+  ]
+},
+{
+  "url": "https://aniagotuje.pl/przepis/pieczen-rzymska-z-jajkiem",
+  "ingredients": [
+    {
+      "quantity": "1",
+      "unit": "szt",
+      "name": "cebula"
+    },
+    {
+      "quantity": "15",
+      "unit": "g",
+      "name": "chrzan"
+    },
+    {
+      "quantity": "3",
+      "unit": "szt",
+      "name": "czosnek"
+    },
+    {
+      "quantity": "4",
+      "unit": "szt",
+      "name": "jajka"
+    },
+    {
+      "quantity": "1",
+      "unit": "szt",
+      "name": "jajko"
+    },
+    {
+      "quantity": "15",
+      "unit": "g",
+      "name": "majeranek"
+    },
+    {
+      "quantity": "15",
+      "unit": "g",
+      "name": "musztarda"
+    },
+    {
+      "quantity": "2.5",
+      "unit": "g",
+      "name": "pieprz"
+    },
+    {
+      "quantity": "30",
+      "unit": "ml",
+      "name": "smalec"
+    },
+    {
+      "quantity": "2.5",
+      "unit": "g",
+      "name": "sól"
+    },
+    {
+      "quantity": "700",
+      "unit": "g",
+      "name": "łopatka wieprzowa"
+    }
+  ]
+},
+{
+  "url": "https://aniagotuje.pl/przepis/pulpety-indycze-z-ryzem",
+  "ingredients": [
+    {
+      "quantity": "500",
+      "unit": "ml",
+      "name": "bulion"
+    },
+    {
+      "quantity": "30",
+      "unit": "g",
+      "name": "bułka tarta"
+    },
+    {
+      "quantity": "1",
+      "unit": "szt",
+      "name": "czosnek"
+    },
+    {
+      "quantity": "500",
+      "unit": "g",
+      "name": "filet z indyka"
+    },
+    {
+      "quantity": "1",
+      "unit": "szt",
+      "name": "jajko"
+    },
+    {
+      "quantity": "1",
+      "unit": "szt",
+      "name": "marchew"
+    },
+    {
+      "quantity": "15",
+      "unit": "g",
+      "name": "mąka"
+    },
+    {
+      "quantity": "5",
+      "unit": "ml",
+      "name": "oregano"
+    },
+    {
+      "quantity": "120",
+      "unit": "g",
+      "name": "pomidory"
+    },
+    {
+      "quantity": "150",
+      "unit": "g",
+      "name": "ryż"
+    },
+    {
+      "quantity": "5",
+      "unit": "g",
+      "name": "sól"
+    }
+  ]
+},
+{
+  "url": "https://aniagotuje.pl/przepis/stripsy-z-kurczaka",
+  "ingredients": [
+    {
+      "quantity": "200",
+      "unit": "g",
+      "name": "bułka tarta"
+    },
+    {
+      "quantity": "1.67",
+      "unit": "g",
+      "name": "imbir"
+    },
+    {
+      "quantity": "2",
+      "unit": "szt",
+      "name": "jajka"
+    },
+    {
+      "quantity": "1.67",
+      "unit": "g",
+      "name": "kminek"
+    },
+    {
+      "quantity": "1.67",
+      "unit": "g",
+      "name": "kolendra"
+    },
+    {
+      "quantity": "2.5",
+      "unit": "g",
+      "name": "majeranek"
+    },
+    {
+      "quantity": "90",
+      "unit": "ml",
+      "name": "mleko"
+    },
+    {
+      "quantity": "60",
+      "unit": "g",
+      "name": "mąka kukurydziana"
+    },
+    {
+      "quantity": "60",
+      "unit": "g",
+      "name": "mąka pszenna"
+    },
+    {
+      "quantity": "90",
+      "unit": "ml",
+      "name": "napój roślinny"
+    },
+    {
+      "quantity": "30",
+      "unit": "ml",
+      "name": "olej rzepakowy"
+    },
+    {
+      "quantity": "30",
+      "unit": "ml",
+      "name": "oliwa"
+    },
+    {
+      "quantity": "1.67",
+      "unit": "g",
+      "name": "papryka ostra"
+    },
+    {
+      "quantity": "2.5",
+      "unit": "g",
+      "name": "papryka słodka"
+    },
+    {
+      "quantity": "2.5",
+      "unit": "g",
+      "name": "pieprz"
+    },
+    {
+      "quantity": "500",
+      "unit": "g",
+      "name": "pierś z kurczaka"
+    },
+    {
+      "quantity": "200",
+      "unit": "g",
+      "name": "płatki corn flakes"
+    },
+    {
+      "quantity": "5",
+      "unit": "g",
+      "name": "sól"
+    }
+  ]
+},
+{
+  "url": "https://aniagotuje.pl/przepis/zapiekanka-makaronowa-z-miesem-mielonym",
+  "ingredients": [
+    {
+      "quantity": "230",
+      "unit": "g",
+      "name": "cebula"
+    },
+    {
+      "quantity": "1.25",
+      "unit": "ml",
+      "name": "chili"
+    },
+    {
+      "quantity": "3",
+      "unit": "szt",
+      "name": "czosnek"
+    },
+    {
+      "quantity": "400",
+      "unit": "g",
+      "name": "makaron"
+    },
+    {
+      "quantity": "600",
+      "unit": "g",
+      "name": "mięso mielone"
+    },
+    {
+      "quantity": "45",
+      "unit": "ml",
+      "name": "olej"
+    },
+    {
+      "quantity": "5",
+      "unit": "ml",
+      "name": "papryka"
+    },
+    {
+      "quantity": "240",
+      "unit": "g",
+      "name": "pieczarki"
+    },
+    {
+      "quantity": "1.25",
+      "unit": "ml",
+      "name": "pieprz"
+    },
+    {
+      "quantity": "800",
+      "unit": "g",
+      "name": "pomidory malinowe"
+    },
+    {
+      "quantity": "400",
+      "unit": "g",
+      "name": "ser żółty"
+    },
+    {
+      "quantity": "2.5",
+      "unit": "ml",
+      "name": "sól"
+    }
+  ]
+},
+{
+  "url": "https://aniagotuje.pl/przepis/budyniowiec-bez-pieczenia",
+  "ingredients": [
+    {
+      "quantity": "130",
+      "unit": "g",
+      "name": "biszkoptów"
+    },
+    {
+      "quantity": "16",
+      "unit": "szt",
+      "name": "biszkoptów"
+    },
+    {
+      "quantity": "80",
+      "unit": "g",
+      "name": "budyń"
+    },
+    {
+      "quantity": "60",
+      "unit": "g",
+      "name": "cukier"
+    },
+    {
+      "quantity": "2",
+      "unit": "szt",
+      "name": "galaretki"
+    },
+    {
+      "quantity": "100",
+      "unit": "g",
+      "name": "masło"
+    },
+    {
+      "quantity": "1250",
+      "unit": "ml",
+      "name": "mleka"
+    },
+    {
+      "quantity": "500",
+      "unit": "g",
+      "name": "owoce"
+    },
+    {
+      "quantity": "1500",
+      "unit": "ml",
+      "name": "wrzątek"
+    }
+  ]
+},
+{
+  "url": "https://aniagotuje.pl/przepis/chatka-baby-jagi",
+  "ingredients": [
+    {
+      "quantity": "150",
+      "unit": "g",
+      "name": "cukier puder"
+    },
+    {
+      "quantity": "120",
+      "unit": "g",
+      "name": "czekolada"
+    },
+    {
+      "quantity": "36",
+      "unit": "szt",
+      "name": "herbatniki"
+    },
+    {
+      "quantity": "10",
+      "unit": "g",
+      "name": "kakao"
+    },
+    {
+      "quantity": "200",
+      "unit": "g",
+      "name": "masło"
+    },
+    {
+      "quantity": "20",
+      "unit": "g",
+      "name": "orzechy laskowe"
+    },
+    {
+      "quantity": "700",
+      "unit": "g",
+      "name": "twaróg"
+    },
+    {
+      "quantity": "100",
+      "unit": "ml",
+      "name": "śmietanka"
+    }
+  ]
+},
+{
+  "url": "https://aniagotuje.pl/przepis/ciasto-3-bit",
+  "ingredients": [
+    {
+      "quantity": "80",
+      "unit": "g",
+      "name": "budyń"
+    },
+    {
+      "quantity": "30",
+      "unit": "g",
+      "name": "cukier"
+    },
+    {
+      "quantity": "500",
+      "unit": "g",
+      "name": "herbatniki"
+    },
+    {
+      "quantity": "200",
+      "unit": "g",
+      "name": "masło"
+    },
+    {
+      "quantity": "1000",
+      "unit": "ml",
+      "name": "mleko"
+    },
+    {
+      "quantity": "400",
+      "unit": "ml",
+      "name": "śmietanka"
+    }
+  ]
+},
+{
+  "url": "https://aniagotuje.pl/przepis/ciasto-cappuccino",
+  "ingredients": [
+    {
+      "quantity": "90",
+      "unit": "ml",
+      "name": "cappuccino"
+    },
+    {
+      "quantity": "15",
+      "unit": "g",
+      "name": "czekolada"
+    },
+    {
+      "quantity": "15",
+      "unit": "g",
+      "name": "kakao"
+    },
+    {
+      "quantity": "15",
+      "unit": "g",
+      "name": "kawa"
+    },
+    {
+      "quantity": "125",
+      "unit": "ml",
+      "name": "mleko"
+    },
+    {
+      "quantity": "125",
+      "unit": "ml",
+      "name": "poncz kawowy"
+    },
+    {
+      "quantity": "1000",
+      "unit": "g",
+      "name": "ser"
+    },
+    {
+      "quantity": "750",
+      "unit": "ml",
+      "name": "woda"
+    },
+    {
+      "quantity": "187.5",
+      "unit": "ml",
+      "name": "wrzątek"
+    }
+  ]
+},
+{
+  "url": "https://aniagotuje.pl/przepis/ciasto-filadelfia",
+  "ingredients": [
+    {
+      "quantity": "95",
+      "unit": "g",
+      "name": "cukier"
+    },
+    {
+      "quantity": "3",
+      "unit": "szt",
+      "name": "galaretka"
+    },
+    {
+      "quantity": "440",
+      "unit": "g",
+      "name": "jogurt"
+    },
+    {
+      "quantity": "200",
+      "unit": "g",
+      "name": "krem czekoladowy"
+    },
+    {
+      "quantity": "160",
+      "unit": "g",
+      "name": "sucharki"
+    },
+    {
+      "quantity": "14",
+      "unit": "szt",
+      "name": "sucharki"
+    },
+    {
+      "quantity": "2000",
+      "unit": "ml",
+      "name": "wrzątek"
+    },
+    {
+      "quantity": "500",
+      "unit": "ml",
+      "name": "śmietanka"
+    }
+  ]
+},
+{
+  "url": "https://aniagotuje.pl/przepis/ciasto-gora-lodowa",
+  "ingredients": [
+    {
+      "quantity": "20",
+      "unit": "szt",
+      "name": "biszkopt"
+    },
+    {
+      "quantity": "2",
+      "unit": "szt",
+      "name": "budyń"
+    },
+    {
+      "quantity": "210",
+      "unit": "g",
+      "name": "cukier"
+    },
+    {
+      "quantity": "30",
+      "unit": "szt",
+      "name": "herbatniki"
+    },
+    {
+      "quantity": "2",
+      "unit": "szt",
+      "name": "jajko"
+    },
+    {
+      "quantity": "10",
+      "unit": "g",
+      "name": "kakao"
+    },
+    {
+      "quantity": "400",
+      "unit": "g",
+      "name": "masło"
+    },
+    {
+      "quantity": "1125",
+      "unit": "ml",
+      "name": "mleko"
+    },
+    {
+      "quantity": "210",
+      "unit": "g",
+      "name": "mleko w proszku"
+    },
+    {
+      "quantity": "15",
+      "unit": "g",
+      "name": "mąka"
+    },
+    {
+      "quantity": "125",
+      "unit": "ml",
+      "name": "woda"
+    }
+  ]
+},
+{
+  "url": "https://aniagotuje.pl/przepis/ciasto-jajko-sadzone",
+  "ingredients": [
+    {
+      "quantity": "100",
+      "unit": "g",
+      "name": "biszkopt"
+    },
+    {
+      "quantity": "300",
+      "unit": "g",
+      "name": "brzoskwinia"
+    },
+    {
+      "quantity": "60",
+      "unit": "g",
+      "name": "cukier puder"
+    },
+    {
+      "quantity": "15",
+      "unit": "ml",
+      "name": "cukier puder"
+    },
+    {
+      "quantity": "2",
+      "unit": "szt",
+      "name": "galaretka cytrynowa"
+    },
+    {
+      "quantity": "3",
+      "unit": "szt",
+      "name": "galaretka krystaliczna"
+    },
+    {
+      "quantity": "300",
+      "unit": "g",
+      "name": "morela"
+    },
+    {
+      "quantity": "1000",
+      "unit": "g",
+      "name": "ser twarogowy"
+    },
+    {
+      "quantity": "1000",
+      "unit": "g",
+      "name": "tłusty twaróg"
+    },
+    {
+      "quantity": "750",
+      "unit": "ml",
+      "name": "wrzątek"
+    },
+    {
+      "quantity": "260",
+      "unit": "g",
+      "name": "śmietanka kremówka"
+    }
+  ]
+},
+{
+  "url": "https://aniagotuje.pl/przepis/ciasto-jak-kinder-country",
+  "ingredients": [
+    {
+      "quantity": "1",
+      "unit": "szt",
+      "name": "galaretka cytrynowa lub gruszkowa"
+    },
+    {
+      "quantity": "200",
+      "unit": "g",
+      "name": "mleczne czekolady"
+    },
+    {
+      "quantity": "125",
+      "unit": "g",
+      "name": "mleka w proszku"
+    },
+    {
+      "quantity": "80",
+      "unit": "g",
+      "name": "pszenicy preparowanej"
+    },
+    {
+      "quantity": "250",
+      "unit": "g",
+      "name": "serka mascarpone"
+    },
+    {
+      "quantity": "250",
+      "unit": "ml",
+      "name": "wrzątku"
+    },
+    {
+      "quantity": "350",
+      "unit": "ml",
+      "name": "śmietanki 30 %"
+    }
+  ]
+},
+{
+  "url": "https://aniagotuje.pl/przepis/ciasto-jak-zolty-ser",
+  "ingredients": [
+    {
+      "quantity": "2",
+      "unit": "szt",
+      "name": "galaretki"
+    },
+    {
+      "quantity": "400",
+      "unit": "g",
+      "name": "kubełek gęstego jogurtu naturalnego"
+    },
+    {
+      "quantity": "250",
+      "unit": "g",
+      "name": "pulpa z mango"
+    },
+    {
+      "quantity": "370",
+      "unit": "ml",
+      "name": "wrzątek"
+    }
+  ]
+},
+{
+  "url": "https://aniagotuje.pl/przepis/ciasto-kinder-bueno",
+  "ingredients": [
+    {
+      "quantity": "350",
+      "unit": "g",
+      "name": "Nutella lub inny czekoladowy krem z orzechami laskowymi"
+    },
+    {
+      "quantity": "120",
+      "unit": "g",
+      "name": "budyń śmietankowy lub waniliowy"
+    },
+    {
+      "quantity": "3",
+      "unit": "szt",
+      "name": "budyń śmietankowy lub waniliowy"
+    },
+    {
+      "quantity": "175",
+      "unit": "g",
+      "name": "cukier drobny"
+    },
+    {
+      "quantity": "105",
+      "unit": "g",
+      "name": "cukier puder"
+    },
+    {
+      "quantity": "16",
+      "unit": "g",
+      "name": "cukier wanilinowy"
+    },
+    {
+      "quantity": "100",
+      "unit": "g",
+      "name": "czekolada gorzka"
+    },
+    {
+      "quantity": "400",
+      "unit": "g",
+      "name": "herbatniki"
+    },
+    {
+      "quantity": "400",
+      "unit": "g",
+      "name": "masło"
+    },
+    {
+      "quantity": "1000",
+      "unit": "ml",
+      "name": "mleko"
+    },
+    {
+      "quantity": "120",
+      "unit": "g",
+      "name": "mleko w proszku"
+    },
+    {
+      "quantity": "90",
+      "unit": "g",
+      "name": "orzechy laskowe"
+    },
+    {
+      "quantity": "250",
+      "unit": "g",
+      "name": "serka mascarpone"
+    },
+    {
+      "quantity": "775",
+      "unit": "ml",
+      "name": "śmietanka kremówka"
+    }
+  ]
+},
+{
+  "url": "https://aniagotuje.pl/przepis/ciasto-melba",
+  "ingredients": [
+    {
+      "quantity": "50",
+      "unit": "g",
+      "name": "biszkoptów"
+    },
+    {
+      "quantity": "150",
+      "unit": "g",
+      "name": "cukru pudru"
+    },
+    {
+      "quantity": "1",
+      "unit": "szt",
+      "name": "galaretki"
+    },
+    {
+      "quantity": "25",
+      "unit": "g",
+      "name": "kakao"
+    },
+    {
+      "quantity": "300",
+      "unit": "g",
+      "name": "malin"
+    },
+    {
+      "quantity": "200",
+      "unit": "g",
+      "name": "masła"
+    },
+    {
+      "quantity": "1000",
+      "unit": "ml",
+      "name": "mleka"
+    },
+    {
+      "quantity": "400",
+      "unit": "ml",
+      "name": "wrzątku"
+    },
+    {
+      "quantity": "600",
+      "unit": "g",
+      "name": "śmietany kwaśnej"
+    }
+  ]
+},
+{
+  "url": "https://aniagotuje.pl/przepis/ciasto-pszczolka",
+  "ingredients": [
+    {
+      "quantity": "42.5",
+      "unit": "g",
+      "name": "budyń czekoladowy"
+    },
+    {
+      "quantity": "1",
+      "unit": "szt",
+      "name": "budyń czekoladowy"
+    },
+    {
+      "quantity": "185",
+      "unit": "g",
+      "name": "cukier"
+    },
+    {
+      "quantity": "105",
+      "unit": "g",
+      "name": "cukier puder"
+    },
+    {
+      "quantity": "200",
+      "unit": "g",
+      "name": "czekolada biała"
+    },
+    {
+      "quantity": "30",
+      "unit": "g",
+      "name": "czekolada gorzka"
+    },
+    {
+      "quantity": "3",
+      "unit": "szt",
+      "name": "galaretka"
+    },
+    {
+      "quantity": "200",
+      "unit": "g",
+      "name": "jajko"
+    },
+    {
+      "quantity": "4",
+      "unit": "szt",
+      "name": "jajko"
+    },
+    {
+      "quantity": "95",
+      "unit": "g",
+      "name": "mąka pszenna tortowa"
+    },
+    {
+      "quantity": "30",
+      "unit": "ml",
+      "name": "olej roślinny"
+    },
+    {
+      "quantity": "5",
+      "unit": "g",
+      "name": "proszek do pieczenia"
+    },
+    {
+      "quantity": "250",
+      "unit": "ml",
+      "name": "syrop z brzoskwiń"
+    },
+    {
+      "quantity": "1000",
+      "unit": "g",
+      "name": "twaróg"
+    },
+    {
+      "quantity": "1400",
+      "unit": "ml",
+      "name": "wrzątek"
+    },
+    {
+      "quantity": "500",
+      "unit": "ml",
+      "name": "śmietanka kremówka"
+    }
+  ]
+},
+{
+  "url": "https://aniagotuje.pl/przepis/ciasto-rurociag",
+  "ingredients": [
+    {
+      "quantity": "150",
+      "unit": "g",
+      "name": "cukier puder"
+    },
+    {
+      "quantity": "20",
+      "unit": "g",
+      "name": "czekolada"
+    },
+    {
+      "quantity": "200",
+      "unit": "g",
+      "name": "herbatniki i petit beurre kakaowe"
+    },
+    {
+      "quantity": "40",
+      "unit": "szt",
+      "name": "herbatniki i petit beurre kakaowe"
+    },
+    {
+      "quantity": "450",
+      "unit": "g",
+      "name": "rurki waflowe z kremem"
+    },
+    {
+      "quantity": "400",
+      "unit": "g",
+      "name": "serka homogenizowanego waniliowego"
+    },
+    {
+      "quantity": "500",
+      "unit": "g",
+      "name": "serka mascarpone"
+    },
+    {
+      "quantity": "250",
+      "unit": "ml",
+      "name": "wrzątek"
+    },
+    {
+      "quantity": "800",
+      "unit": "ml",
+      "name": "śmietanka 30 %"
+    },
+    {
+      "quantity": "45",
+      "unit": "g",
+      "name": "żelatyna"
+    }
+  ]
+},
+{
+  "url": "https://aniagotuje.pl/przepis/ciasto-shrek",
+  "ingredients": [
+    {
+      "quantity": "3",
+      "unit": "szt",
+      "name": "budyń waniliowy"
+    },
+    {
+      "quantity": "3",
+      "unit": "szt",
+      "name": "budyń śmietankowy"
+    },
+    {
+      "quantity": "160",
+      "unit": "g",
+      "name": "cukier"
+    },
+    {
+      "quantity": "3",
+      "unit": "szt",
+      "name": "galaretka zielona"
+    },
+    {
+      "quantity": "4",
+      "unit": "szt",
+      "name": "jajka"
+    },
+    {
+      "quantity": "145",
+      "unit": "g",
+      "name": "mąka pszenna tortowa"
+    },
+    {
+      "quantity": "900",
+      "unit": "ml",
+      "name": "napój zielony"
+    },
+    {
+      "quantity": "30",
+      "unit": "ml",
+      "name": "olej roślinny"
+    },
+    {
+      "quantity": "25",
+      "unit": "g",
+      "name": "proszek budyniowy"
+    },
+    {
+      "quantity": "25",
+      "unit": "g",
+      "name": "skroba ziemniaczana"
+    },
+    {
+      "quantity": "100",
+      "unit": "ml",
+      "name": "woda"
+    },
+    {
+      "quantity": "1177.5",
+      "unit": "ml",
+      "name": "wrzątek"
+    },
+    {
+      "quantity": "500",
+      "unit": "ml",
+      "name": "śmietanka kremówka"
+    }
+  ]
+},
+{
+  "url": "https://aniagotuje.pl/przepis/ciasto-snickers",
+  "ingredients": [
+    {
+      "quantity": "30",
+      "unit": "g",
+      "name": "cukier"
+    },
+    {
+      "quantity": "100",
+      "unit": "g",
+      "name": "czekolada"
+    },
+    {
+      "quantity": "360",
+      "unit": "g",
+      "name": "herbatniki"
+    },
+    {
+      "quantity": "100",
+      "unit": "g",
+      "name": "masło orzechowe"
+    },
+    {
+      "quantity": "100",
+      "unit": "g",
+      "name": "orzechy ziemne"
+    },
+    {
+      "quantity": "100",
+      "unit": "ml",
+      "name": "wrzątek"
+    },
+    {
+      "quantity": "550",
+      "unit": "ml",
+      "name": "śmietanka"
+    },
+    {
+      "quantity": "20",
+      "unit": "g",
+      "name": "żelatyna"
+    }
+  ]
+},
+{
+  "url": "https://aniagotuje.pl/przepis/karpatka-z-groszkiem-ptysiowym",
+  "ingredients": [
+    {
+      "quantity": "150",
+      "unit": "g",
+      "name": "cukier puder"
+    },
+    {
+      "quantity": "16",
+      "unit": "g",
+      "name": "cukier wanilinowy"
+    },
+    {
+      "quantity": "200",
+      "unit": "g",
+      "name": "groszek ptysiowy"
+    },
+    {
+      "quantity": "200",
+      "unit": "g",
+      "name": "masło"
+    },
+    {
+      "quantity": "1500",
+      "unit": "ml",
+      "name": "mleko"
+    },
+    {
+      "quantity": "80",
+      "unit": "g",
+      "name": "proszek budyniowy bez cukru"
+    },
+    {
+      "quantity": "4",
+      "unit": "szt",
+      "name": "żółtko jajka"
+    }
+  ]
+},
+{
+  "url": "https://aniagotuje.pl/przepis/malinowa-chmurka-bez-pieczenia",
+  "ingredients": [
+    {
+      "quantity": "200",
+      "unit": "g",
+      "name": "ciasteczek"
+    },
+    {
+      "quantity": "50",
+      "unit": "g",
+      "name": "cukier puder"
+    },
+    {
+      "quantity": "5",
+      "unit": "ml",
+      "name": "esencja waniliowa"
+    },
+    {
+      "quantity": "2",
+      "unit": "szt",
+      "name": "galaretki malinowe"
+    },
+    {
+      "quantity": "1",
+      "unit": "szt",
+      "name": "laska wanilii"
+    },
+    {
+      "quantity": "400",
+      "unit": "g",
+      "name": "maliny"
+    },
+    {
+      "quantity": "70",
+      "unit": "g",
+      "name": "masło"
+    },
+    {
+      "quantity": "50",
+      "unit": "g",
+      "name": "mini bez"
+    },
+    {
+      "quantity": "5",
+      "unit": "ml",
+      "name": "pasta waniliowa"
+    },
+    {
+      "quantity": "30",
+      "unit": "g",
+      "name": "prażone płatki migdałów"
+    },
+    {
+      "quantity": "250",
+      "unit": "g",
+      "name": "serka mascarpone"
+    },
+    {
+      "quantity": "1250",
+      "unit": "ml",
+      "name": "woda"
+    },
+    {
+      "quantity": "500",
+      "unit": "ml",
+      "name": "śmietanka kremówka"
+    },
+    {
+      "quantity": "10",
+      "unit": "g",
+      "name": "żelatyna"
+    }
+  ]
+},
+{
+  "url": "https://aniagotuje.pl/przepis/napoleonka-bez-pieczenia",
+  "ingredients": [
+    {
+      "quantity": "80",
+      "unit": "g",
+      "name": "budyń bez cukru"
+    },
+    {
+      "quantity": "2",
+      "unit": "szt",
+      "name": "budyń bez cukru"
+    },
+    {
+      "quantity": "295",
+      "unit": "g",
+      "name": "cukier"
+    },
+    {
+      "quantity": "32",
+      "unit": "g",
+      "name": "cukier wanilinowy"
+    },
+    {
+      "quantity": "160",
+      "unit": "g",
+      "name": "krakers"
+    },
+    {
+      "quantity": "400",
+      "unit": "g",
+      "name": "masło"
+    },
+    {
+      "quantity": "1000",
+      "unit": "ml",
+      "name": "mleko"
+    },
+    {
+      "quantity": "205",
+      "unit": "g",
+      "name": "mąka pszenna tortowa"
+    },
+    {
+      "quantity": "4",
+      "unit": "szt",
+      "name": "żółtko"
+    }
+  ]
+},
+{
+  "url": "https://aniagotuje.pl/przepis/pianka",
+  "ingredients": [
+    {
+      "quantity": "2",
+      "unit": "szt",
+      "name": "galaretka"
+    },
+    {
+      "quantity": "800",
+      "unit": "ml",
+      "name": "wrzątek"
+    }
+  ]
+},
+{
+  "url": "https://aniagotuje.pl/przepis/proste-ciasto-rafaello-bez-pieczenia",
+  "ingredients": [
+    {
+      "quantity": "30",
+      "unit": "g",
+      "name": "cukru"
+    },
+    {
+      "quantity": "200",
+      "unit": "g",
+      "name": "krakersów"
+    },
+    {
+      "quantity": "60",
+      "unit": "g",
+      "name": "mleka w proszku"
+    },
+    {
+      "quantity": "250",
+      "unit": "g",
+      "name": "serka mascarpone"
+    },
+    {
+      "quantity": "100",
+      "unit": "g",
+      "name": "wiórków kokosowych"
+    },
+    {
+      "quantity": "50",
+      "unit": "ml",
+      "name": "wrzątku"
+    },
+    {
+      "quantity": "260",
+      "unit": "g",
+      "name": "śmietanki 30 %"
+    },
+    {
+      "quantity": "5",
+      "unit": "g",
+      "name": "żelatyny"
+    }
+  ]
+},
+{
+  "url": "https://aniagotuje.pl/przepis/sernik-dyniowy-z-oreo-na-zimno",
+  "ingredients": [
+    {
+      "quantity": "10",
+      "unit": "szt",
+      "name": "ciasteczka oreo"
+    },
+    {
+      "quantity": "10",
+      "unit": "g",
+      "name": "cukier puder"
+    },
+    {
+      "quantity": "1",
+      "unit": "szt",
+      "name": "galaretka pomarańczowa"
+    },
+    {
+      "quantity": "15",
+      "unit": "g",
+      "name": "masło"
+    },
+    {
+      "quantity": "300",
+      "unit": "g",
+      "name": "puree z dyni"
+    },
+    {
+      "quantity": "500",
+      "unit": "g",
+      "name": "ser mielony"
+    },
+    {
+      "quantity": "300",
+      "unit": "ml",
+      "name": "wrzątek"
+    },
+    {
+      "quantity": "75",
+      "unit": "ml",
+      "name": "śmietanka 30%"
+    },
+    {
+      "quantity": "15",
+      "unit": "g",
+      "name": "żelatyna w proszku"
+    }
+  ]
+},
+{
+  "url": "https://aniagotuje.pl/przepis/sernik-na-zimno-bounty",
+  "ingredients": [
+    {
+      "quantity": "4",
+      "unit": "szt",
+      "name": "białka jajek"
+    },
+    {
+      "quantity": "208.33",
+      "unit": "g",
+      "name": "cukier"
+    },
+    {
+      "quantity": "100",
+      "unit": "g",
+      "name": "czekolada mleczna"
+    },
+    {
+      "quantity": "60",
+      "unit": "g",
+      "name": "herbatniki"
+    },
+    {
+      "quantity": "60",
+      "unit": "g",
+      "name": "masło"
+    },
+    {
+      "quantity": "125",
+      "unit": "ml",
+      "name": "mleko"
+    },
+    {
+      "quantity": "200",
+      "unit": "g",
+      "name": "mleko kokosowe"
+    },
+    {
+      "quantity": "45",
+      "unit": "g",
+      "name": "mąka kokosowa"
+    },
+    {
+      "quantity": "250",
+      "unit": "g",
+      "name": "ser mascarpone"
+    },
+    {
+      "quantity": "183.33",
+      "unit": "ml",
+      "name": "woda"
+    },
+    {
+      "quantity": "45",
+      "unit": "g",
+      "name": "żelatyna"
+    }
+  ]
+},
+{
+  "url": "https://aniagotuje.pl/przepis/sernik-na-zimno-pistacjowy",
+  "ingredients": [
+    {
+      "quantity": "150",
+      "unit": "g",
+      "name": "ciasteczek"
+    },
+    {
+      "quantity": "50",
+      "unit": "g",
+      "name": "cukru pudru"
+    },
+    {
+      "quantity": "2",
+      "unit": "szt",
+      "name": "galaretki"
+    },
+    {
+      "quantity": "1",
+      "unit": "szt",
+      "name": "limonka"
+    },
+    {
+      "quantity": "50",
+      "unit": "g",
+      "name": "masło"
+    },
+    {
+      "quantity": "200",
+      "unit": "g",
+      "name": "pasty z pistacji"
+    },
+    {
+      "quantity": "100",
+      "unit": "g",
+      "name": "pistacji"
+    },
+    {
+      "quantity": "750",
+      "unit": "g",
+      "name": "serków"
+    },
+    {
+      "quantity": "300",
+      "unit": "ml",
+      "name": "wrzątku"
+    },
+    {
+      "quantity": "200",
+      "unit": "ml",
+      "name": "śmietanki"
+    }
+  ]
+}
+]
